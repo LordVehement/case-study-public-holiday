@@ -1,0 +1,3882 @@
+date,country,ISO_2
+2016-01-01,Argentina,AR
+2016-01-01,Australia,AU
+2016-01-01,Austria,AT
+2016-01-01,Belarus,BY
+2016-01-01,Belgium,BE
+2016-01-01,Brazil,BR
+2016-01-01,Canada,CA
+2016-01-01,Colombia,CO
+2016-01-01,Croatia,HR
+2016-01-01,Czech,CZ
+2016-01-01,Denmark,DK
+2016-01-01,England,None
+2016-01-01,Finland,FI
+2016-01-01,France,FR
+2016-01-01,Germany,DE
+2016-01-01,Hungary,HU
+2016-01-01,Ireland,IE
+2016-01-01,Isle of Man,IM
+2016-01-01,Italy,IT
+2016-01-01,Japan,JP
+2016-01-01,Mexico,MX
+2016-01-01,Netherlands,NL
+2016-01-01,New Zealand,NZ
+2016-01-01,Northern Ireland,None
+2016-01-01,Norway,NO
+2016-01-01,Poland,PL
+2016-01-01,Portugal,PT
+2016-01-01,Scotland,None
+2016-01-01,Slovenia,SI
+2016-01-01,South Africa,ZA
+2016-01-01,Spain,ES
+2016-01-01,Sweden,SE
+2016-01-01,Switzerland,CH
+2016-01-01,Ukraine,UA
+2016-01-01,United Kingdom,GB
+2016-01-01,United States,US
+2016-01-01,Wales,None
+2016-01-02,New Zealand,NZ
+2016-01-02,Scotland,None
+2016-01-02,United Kingdom,GB
+2016-01-03,Norway,NO
+2016-01-03,Sweden,SE
+2016-01-04,New Zealand,NZ
+2016-01-04,Scotland,None
+2016-01-04,United Kingdom,GB
+2016-01-06,Austria,AT
+2016-01-06,Croatia,HR
+2016-01-06,Finland,FI
+2016-01-06,Italy,IT
+2016-01-06,Poland,PL
+2016-01-06,Spain,ES
+2016-01-06,Sweden,SE
+2016-01-07,Belarus,BY
+2016-01-07,Ukraine,UA
+2016-01-10,Norway,NO
+2016-01-10,Sweden,SE
+2016-01-11,Colombia,CO
+2016-01-11,Japan,JP
+2016-01-14,India,IN
+2016-01-17,Norway,NO
+2016-01-17,Sweden,SE
+2016-01-18,United States,US
+2016-01-24,Norway,NO
+2016-01-24,Sweden,SE
+2016-01-26,Australia,AU
+2016-01-26,India,IN
+2016-01-31,Norway,NO
+2016-01-31,Sweden,SE
+2016-02-01,Mexico,MX
+2016-02-05,Mexico,MX
+2016-02-06,New Zealand,NZ
+2016-02-07,Norway,NO
+2016-02-07,Sweden,SE
+2016-02-08,Argentina,AR
+2016-02-08,New Zealand,NZ
+2016-02-08,Slovenia,SI
+2016-02-09,Argentina,AR
+2016-02-09,Brazil,BR
+2016-02-10,Brazil,BR
+2016-02-11,Japan,JP
+2016-02-14,Norway,NO
+2016-02-14,Sweden,SE
+2016-02-15,Canada,CA
+2016-02-15,United States,US
+2016-02-21,Norway,NO
+2016-02-21,Sweden,SE
+2016-02-28,Norway,NO
+2016-02-28,Sweden,SE
+2016-03-06,Norway,NO
+2016-03-06,Sweden,SE
+2016-03-08,Belarus,BY
+2016-03-08,Ukraine,UA
+2016-03-13,Norway,NO
+2016-03-13,Sweden,SE
+2016-03-14,Hungary,HU
+2016-03-15,Hungary,HU
+2016-03-17,Ireland,IE
+2016-03-17,Northern Ireland,None
+2016-03-17,United Kingdom,GB
+2016-03-20,Denmark,DK
+2016-03-20,Japan,JP
+2016-03-20,Norway,NO
+2016-03-20,Sweden,SE
+2016-03-21,Colombia,CO
+2016-03-21,Japan,JP
+2016-03-21,Mexico,MX
+2016-03-21,South Africa,ZA
+2016-03-24,Argentina,AR
+2016-03-24,Colombia,CO
+2016-03-24,Denmark,DK
+2016-03-24,Norway,NO
+2016-03-25,Argentina,AR
+2016-03-25,Australia,AU
+2016-03-25,Brazil,BR
+2016-03-25,Canada,CA
+2016-03-25,Colombia,CO
+2016-03-25,Czech,CZ
+2016-03-25,Denmark,DK
+2016-03-25,England,None
+2016-03-25,Finland,FI
+2016-03-25,Germany,DE
+2016-03-25,Isle of Man,IM
+2016-03-25,Netherlands,NL
+2016-03-25,New Zealand,NZ
+2016-03-25,Northern Ireland,None
+2016-03-25,Norway,NO
+2016-03-25,Portugal,PT
+2016-03-25,Scotland,None
+2016-03-25,South Africa,ZA
+2016-03-25,Sweden,SE
+2016-03-25,Switzerland,CH
+2016-03-25,United Kingdom,GB
+2016-03-25,Wales,None
+2016-03-27,Argentina,AR
+2016-03-27,Belgium,BE
+2016-03-27,Brazil,BR
+2016-03-27,Croatia,HR
+2016-03-27,Denmark,DK
+2016-03-27,Finland,FI
+2016-03-27,Hungary,HU
+2016-03-27,Italy,IT
+2016-03-27,Netherlands,NL
+2016-03-27,Norway,NO
+2016-03-27,Poland,PL
+2016-03-27,Portugal,PT
+2016-03-27,Sweden,SE
+2016-03-27,Switzerland,CH
+2016-03-28,Australia,AU
+2016-03-28,Austria,AT
+2016-03-28,Belgium,BE
+2016-03-28,Croatia,HR
+2016-03-28,Czech,CZ
+2016-03-28,Denmark,DK
+2016-03-28,England,None
+2016-03-28,Finland,FI
+2016-03-28,France,FR
+2016-03-28,Germany,DE
+2016-03-28,Hungary,HU
+2016-03-28,Ireland,IE
+2016-03-28,Isle of Man,IM
+2016-03-28,Italy,IT
+2016-03-28,Netherlands,NL
+2016-03-28,New Zealand,NZ
+2016-03-28,Northern Ireland,None
+2016-03-28,Norway,NO
+2016-03-28,Poland,PL
+2016-03-28,Slovenia,SI
+2016-03-28,South Africa,ZA
+2016-03-28,Sweden,SE
+2016-03-28,Switzerland,CH
+2016-03-28,United Kingdom,GB
+2016-03-28,Wales,None
+2016-04-02,Argentina,AR
+2016-04-03,Norway,NO
+2016-04-03,Sweden,SE
+2016-04-10,Norway,NO
+2016-04-10,Sweden,SE
+2016-04-17,Norway,NO
+2016-04-17,Sweden,SE
+2016-04-21,Brazil,BR
+2016-04-22,Denmark,DK
+2016-04-24,Norway,NO
+2016-04-24,Sweden,SE
+2016-04-25,Australia,AU
+2016-04-25,Italy,IT
+2016-04-25,New Zealand,NZ
+2016-04-25,Portugal,PT
+2016-04-27,Netherlands,NL
+2016-04-27,Slovenia,SI
+2016-04-27,South Africa,ZA
+2016-04-29,Japan,JP
+2016-05-01,Argentina,AR
+2016-05-01,Austria,AT
+2016-05-01,Belarus,BY
+2016-05-01,Belgium,BE
+2016-05-01,Brazil,BR
+2016-05-01,Colombia,CO
+2016-05-01,Croatia,HR
+2016-05-01,Czech,CZ
+2016-05-01,Finland,FI
+2016-05-01,France,FR
+2016-05-01,Germany,DE
+2016-05-01,Hungary,HU
+2016-05-01,India,IN
+2016-05-01,Italy,IT
+2016-05-01,Mexico,MX
+2016-05-01,Norway,NO
+2016-05-01,Poland,PL
+2016-05-01,Portugal,PT
+2016-05-01,Slovenia,SI
+2016-05-01,South Africa,ZA
+2016-05-01,Spain,ES
+2016-05-01,Sweden,SE
+2016-05-01,Ukraine,UA
+2016-05-02,England,None
+2016-05-02,Ireland,IE
+2016-05-02,Isle of Man,IM
+2016-05-02,Mexico,MX
+2016-05-02,Northern Ireland,None
+2016-05-02,Scotland,None
+2016-05-02,Slovenia,SI
+2016-05-02,South Africa,ZA
+2016-05-02,Ukraine,UA
+2016-05-02,United Kingdom,GB
+2016-05-02,Wales,None
+2016-05-03,Japan,JP
+2016-05-03,Poland,PL
+2016-05-04,Japan,JP
+2016-05-05,Austria,AT
+2016-05-05,Belgium,BE
+2016-05-05,Denmark,DK
+2016-05-05,Finland,FI
+2016-05-05,France,FR
+2016-05-05,Germany,DE
+2016-05-05,Japan,JP
+2016-05-05,Netherlands,NL
+2016-05-05,Norway,NO
+2016-05-05,Sweden,SE
+2016-05-05,Switzerland,CH
+2016-05-08,Czech,CZ
+2016-05-08,France,FR
+2016-05-08,Norway,NO
+2016-05-08,Sweden,SE
+2016-05-09,Belarus,BY
+2016-05-09,Colombia,CO
+2016-05-09,Ukraine,UA
+2016-05-10,Belarus,BY
+2016-05-15,Belgium,BE
+2016-05-15,Denmark,DK
+2016-05-15,Finland,FI
+2016-05-15,Hungary,HU
+2016-05-15,Netherlands,NL
+2016-05-15,Norway,NO
+2016-05-15,Poland,PL
+2016-05-15,Sweden,SE
+2016-05-15,Switzerland,CH
+2016-05-16,Austria,AT
+2016-05-16,Belgium,BE
+2016-05-16,Denmark,DK
+2016-05-16,France,FR
+2016-05-16,Germany,DE
+2016-05-16,Hungary,HU
+2016-05-16,Netherlands,NL
+2016-05-16,Norway,NO
+2016-05-16,Switzerland,CH
+2016-05-17,Norway,NO
+2016-05-22,Norway,NO
+2016-05-22,Sweden,SE
+2016-05-23,Canada,CA
+2016-05-25,Argentina,AR
+2016-05-26,Austria,AT
+2016-05-26,Brazil,BR
+2016-05-26,Croatia,HR
+2016-05-26,Poland,PL
+2016-05-26,Portugal,PT
+2016-05-29,Norway,NO
+2016-05-29,Sweden,SE
+2016-05-30,Colombia,CO
+2016-05-30,England,None
+2016-05-30,Isle of Man,IM
+2016-05-30,Northern Ireland,None
+2016-05-30,Scotland,None
+2016-05-30,United Kingdom,GB
+2016-05-30,United States,US
+2016-05-30,Wales,None
+2016-06-02,Italy,IT
+2016-06-03,Isle of Man,IM
+2016-06-05,Norway,NO
+2016-06-05,Sweden,SE
+2016-06-06,Colombia,CO
+2016-06-06,Ireland,IE
+2016-06-06,New Zealand,NZ
+2016-06-06,Sweden,SE
+2016-06-10,Portugal,PT
+2016-06-12,Norway,NO
+2016-06-12,Sweden,SE
+2016-06-16,South Africa,ZA
+2016-06-17,Argentina,AR
+2016-06-19,Norway,NO
+2016-06-19,Sweden,SE
+2016-06-19,Ukraine,UA
+2016-06-20,Argentina,AR
+2016-06-22,Croatia,HR
+2016-06-24,Finland,FI
+2016-06-24,Sweden,SE
+2016-06-25,Croatia,HR
+2016-06-25,Finland,FI
+2016-06-25,Slovenia,SI
+2016-06-25,Sweden,SE
+2016-06-26,Norway,NO
+2016-06-26,Sweden,SE
+2016-06-28,Ukraine,UA
+2016-07-01,Canada,CA
+2016-07-03,Belarus,BY
+2016-07-03,Norway,NO
+2016-07-03,Sweden,SE
+2016-07-04,Colombia,CO
+2016-07-04,United States,US
+2016-07-05,Czech,CZ
+2016-07-05,Isle of Man,IM
+2016-07-06,Czech,CZ
+2016-07-09,Argentina,AR
+2016-07-10,Norway,NO
+2016-07-10,Sweden,SE
+2016-07-12,Northern Ireland,None
+2016-07-12,United Kingdom,GB
+2016-07-14,France,FR
+2016-07-17,Norway,NO
+2016-07-17,Sweden,SE
+2016-07-18,Japan,JP
+2016-07-20,Colombia,CO
+2016-07-21,Belgium,BE
+2016-07-24,Norway,NO
+2016-07-24,Sweden,SE
+2016-07-31,Norway,NO
+2016-07-31,Sweden,SE
+2016-08-01,Canada,CA
+2016-08-01,Ireland,IE
+2016-08-01,Scotland,None
+2016-08-01,Switzerland,CH
+2016-08-01,United Kingdom,GB
+2016-08-03,South Africa,ZA
+2016-08-05,Croatia,HR
+2016-08-07,Colombia,CO
+2016-08-07,Norway,NO
+2016-08-07,Sweden,SE
+2016-08-09,South Africa,ZA
+2016-08-11,Japan,JP
+2016-08-14,Norway,NO
+2016-08-14,Sweden,SE
+2016-08-15,Austria,AT
+2016-08-15,Belgium,BE
+2016-08-15,Colombia,CO
+2016-08-15,Croatia,HR
+2016-08-15,France,FR
+2016-08-15,India,IN
+2016-08-15,Italy,IT
+2016-08-15,Poland,PL
+2016-08-15,Portugal,PT
+2016-08-15,Slovenia,SI
+2016-08-15,Spain,ES
+2016-08-17,Argentina,AR
+2016-08-20,Hungary,HU
+2016-08-21,Norway,NO
+2016-08-21,Sweden,SE
+2016-08-24,Ukraine,UA
+2016-08-28,Norway,NO
+2016-08-28,Sweden,SE
+2016-08-29,England,None
+2016-08-29,Isle of Man,IM
+2016-08-29,Northern Ireland,None
+2016-08-29,United Kingdom,GB
+2016-08-29,Wales,None
+2016-09-04,Norway,NO
+2016-09-04,Sweden,SE
+2016-09-05,Canada,CA
+2016-09-05,United States,US
+2016-09-07,Brazil,BR
+2016-09-11,Norway,NO
+2016-09-11,Sweden,SE
+2016-09-16,Mexico,MX
+2016-09-18,Norway,NO
+2016-09-18,Sweden,SE
+2016-09-19,Japan,JP
+2016-09-22,Japan,JP
+2016-09-24,South Africa,ZA
+2016-09-25,Norway,NO
+2016-09-25,Sweden,SE
+2016-09-28,Czech,CZ
+2016-10-02,India,IN
+2016-10-02,Norway,NO
+2016-10-02,Sweden,SE
+2016-10-03,Germany,DE
+2016-10-05,Portugal,PT
+2016-10-08,Croatia,HR
+2016-10-09,Norway,NO
+2016-10-09,Sweden,SE
+2016-10-10,Canada,CA
+2016-10-10,Japan,JP
+2016-10-10,United States,US
+2016-10-12,Argentina,AR
+2016-10-12,Brazil,BR
+2016-10-12,Spain,ES
+2016-10-14,Ukraine,UA
+2016-10-16,Norway,NO
+2016-10-16,Sweden,SE
+2016-10-17,Colombia,CO
+2016-10-23,Hungary,HU
+2016-10-23,Norway,NO
+2016-10-23,Sweden,SE
+2016-10-24,New Zealand,NZ
+2016-10-26,Austria,AT
+2016-10-28,Czech,CZ
+2016-10-30,Norway,NO
+2016-10-30,Sweden,SE
+2016-10-31,Hungary,HU
+2016-10-31,Ireland,IE
+2016-10-31,Slovenia,SI
+2016-11-01,Austria,AT
+2016-11-01,Belgium,BE
+2016-11-01,Croatia,HR
+2016-11-01,France,FR
+2016-11-01,Hungary,HU
+2016-11-01,Italy,IT
+2016-11-01,Poland,PL
+2016-11-01,Portugal,PT
+2016-11-01,Slovenia,SI
+2016-11-01,Spain,ES
+2016-11-02,Brazil,BR
+2016-11-03,Japan,JP
+2016-11-05,Finland,FI
+2016-11-05,Sweden,SE
+2016-11-06,Norway,NO
+2016-11-06,Sweden,SE
+2016-11-07,Belarus,BY
+2016-11-07,Colombia,CO
+2016-11-11,Belgium,BE
+2016-11-11,France,FR
+2016-11-11,Poland,PL
+2016-11-11,United States,US
+2016-11-13,Norway,NO
+2016-11-13,Sweden,SE
+2016-11-14,Colombia,CO
+2016-11-15,Brazil,BR
+2016-11-17,Czech,CZ
+2016-11-20,Argentina,AR
+2016-11-20,Mexico,MX
+2016-11-20,Norway,NO
+2016-11-20,Sweden,SE
+2016-11-21,Mexico,MX
+2016-11-23,Japan,JP
+2016-11-24,United States,US
+2016-11-27,Norway,NO
+2016-11-27,Sweden,SE
+2016-11-30,Scotland,None
+2016-11-30,United Kingdom,GB
+2016-12-01,Portugal,PT
+2016-12-04,Norway,NO
+2016-12-04,Sweden,SE
+2016-12-06,Finland,FI
+2016-12-06,Spain,ES
+2016-12-08,Argentina,AR
+2016-12-08,Austria,AT
+2016-12-08,Colombia,CO
+2016-12-08,Italy,IT
+2016-12-08,Portugal,PT
+2016-12-08,Spain,ES
+2016-12-11,Norway,NO
+2016-12-11,Sweden,SE
+2016-12-16,South Africa,ZA
+2016-12-18,Norway,NO
+2016-12-18,Sweden,SE
+2016-12-23,Japan,JP
+2016-12-24,Czech,CZ
+2016-12-24,Finland,FI
+2016-12-24,Sweden,SE
+2016-12-25,Argentina,AR
+2016-12-25,Australia,AU
+2016-12-25,Austria,AT
+2016-12-25,Belarus,BY
+2016-12-25,Belgium,BE
+2016-12-25,Brazil,BR
+2016-12-25,Canada,CA
+2016-12-25,Colombia,CO
+2016-12-25,Croatia,HR
+2016-12-25,Czech,CZ
+2016-12-25,Denmark,DK
+2016-12-25,England,None
+2016-12-25,Finland,FI
+2016-12-25,France,FR
+2016-12-25,Germany,DE
+2016-12-25,Hungary,HU
+2016-12-25,India,IN
+2016-12-25,Ireland,IE
+2016-12-25,Isle of Man,IM
+2016-12-25,Italy,IT
+2016-12-25,Mexico,MX
+2016-12-25,Netherlands,NL
+2016-12-25,New Zealand,NZ
+2016-12-25,Northern Ireland,None
+2016-12-25,Norway,NO
+2016-12-25,Poland,PL
+2016-12-25,Portugal,PT
+2016-12-25,Scotland,None
+2016-12-25,Slovenia,SI
+2016-12-25,South Africa,ZA
+2016-12-25,Spain,ES
+2016-12-25,Sweden,SE
+2016-12-25,Switzerland,CH
+2016-12-25,United Kingdom,GB
+2016-12-25,United States,US
+2016-12-25,Wales,None
+2016-12-26,Australia,AU
+2016-12-26,Austria,AT
+2016-12-26,Canada,CA
+2016-12-26,Croatia,HR
+2016-12-26,Czech,CZ
+2016-12-26,Denmark,DK
+2016-12-26,England,None
+2016-12-26,Finland,FI
+2016-12-26,Germany,DE
+2016-12-26,Hungary,HU
+2016-12-26,Ireland,IE
+2016-12-26,Isle of Man,IM
+2016-12-26,Italy,IT
+2016-12-26,Mexico,MX
+2016-12-26,Netherlands,NL
+2016-12-26,New Zealand,NZ
+2016-12-26,Northern Ireland,None
+2016-12-26,Norway,NO
+2016-12-26,Poland,PL
+2016-12-26,Scotland,None
+2016-12-26,Slovenia,SI
+2016-12-26,South Africa,ZA
+2016-12-26,Sweden,SE
+2016-12-26,United Kingdom,GB
+2016-12-26,United States,US
+2016-12-26,Wales,None
+2016-12-27,Australia,AU
+2016-12-27,Canada,CA
+2016-12-27,England,None
+2016-12-27,Ireland,IE
+2016-12-27,Isle of Man,IM
+2016-12-27,New Zealand,NZ
+2016-12-27,Northern Ireland,None
+2016-12-27,Scotland,None
+2016-12-27,United Kingdom,GB
+2016-12-27,Wales,None
+2016-12-31,Sweden,SE
+2017-01-01,Argentina,AR
+2017-01-01,Australia,AU
+2017-01-01,Austria,AT
+2017-01-01,Belarus,BY
+2017-01-01,Belgium,BE
+2017-01-01,Brazil,BR
+2017-01-01,Canada,CA
+2017-01-01,Croatia,HR
+2017-01-01,Czech,CZ
+2017-01-01,Denmark,DK
+2017-01-01,England,None
+2017-01-01,Finland,FI
+2017-01-01,France,FR
+2017-01-01,Germany,DE
+2017-01-01,Hungary,HU
+2017-01-01,Ireland,IE
+2017-01-01,Isle of Man,IM
+2017-01-01,Italy,IT
+2017-01-01,Japan,JP
+2017-01-01,Mexico,MX
+2017-01-01,Netherlands,NL
+2017-01-01,New Zealand,NZ
+2017-01-01,Northern Ireland,None
+2017-01-01,Norway,NO
+2017-01-01,Poland,PL
+2017-01-01,Portugal,PT
+2017-01-01,Scotland,None
+2017-01-01,Slovenia,SI
+2017-01-01,South Africa,ZA
+2017-01-01,Spain,ES
+2017-01-01,Sweden,SE
+2017-01-01,Switzerland,CH
+2017-01-01,Ukraine,UA
+2017-01-01,United Kingdom,GB
+2017-01-01,United States,US
+2017-01-01,Wales,None
+2017-01-02,Australia,AU
+2017-01-02,Canada,CA
+2017-01-02,England,None
+2017-01-02,Ireland,IE
+2017-01-02,Isle of Man,IM
+2017-01-02,Japan,JP
+2017-01-02,Mexico,MX
+2017-01-02,New Zealand,NZ
+2017-01-02,Northern Ireland,None
+2017-01-02,Scotland,None
+2017-01-02,Slovenia,SI
+2017-01-02,South Africa,ZA
+2017-01-02,United Kingdom,GB
+2017-01-02,United States,US
+2017-01-02,Wales,None
+2017-01-03,New Zealand,NZ
+2017-01-03,Scotland,None
+2017-01-03,United Kingdom,GB
+2017-01-06,Austria,AT
+2017-01-06,Croatia,HR
+2017-01-06,Finland,FI
+2017-01-06,Italy,IT
+2017-01-06,Poland,PL
+2017-01-06,Spain,ES
+2017-01-06,Sweden,SE
+2017-01-07,Belarus,BY
+2017-01-07,Ukraine,UA
+2017-01-08,Norway,NO
+2017-01-08,Sweden,SE
+2017-01-09,Colombia,CO
+2017-01-09,Japan,JP
+2017-01-14,India,IN
+2017-01-15,Norway,NO
+2017-01-15,Sweden,SE
+2017-01-16,United States,US
+2017-01-22,Norway,NO
+2017-01-22,Sweden,SE
+2017-01-26,Australia,AU
+2017-01-26,India,IN
+2017-01-29,Norway,NO
+2017-01-29,Sweden,SE
+2017-02-05,Mexico,MX
+2017-02-05,Norway,NO
+2017-02-05,Sweden,SE
+2017-02-06,Mexico,MX
+2017-02-06,New Zealand,NZ
+2017-02-08,Slovenia,SI
+2017-02-11,Japan,JP
+2017-02-12,Norway,NO
+2017-02-12,Sweden,SE
+2017-02-19,Norway,NO
+2017-02-19,Sweden,SE
+2017-02-20,Canada,CA
+2017-02-20,United States,US
+2017-02-26,Norway,NO
+2017-02-26,Sweden,SE
+2017-02-27,Argentina,AR
+2017-02-28,Argentina,AR
+2017-02-28,Brazil,BR
+2017-03-01,Brazil,BR
+2017-03-05,Norway,NO
+2017-03-05,Sweden,SE
+2017-03-08,Belarus,BY
+2017-03-08,Ukraine,UA
+2017-03-12,Norway,NO
+2017-03-12,Sweden,SE
+2017-03-15,Hungary,HU
+2017-03-17,Ireland,IE
+2017-03-17,Northern Ireland,None
+2017-03-17,United Kingdom,GB
+2017-03-19,Norway,NO
+2017-03-19,Sweden,SE
+2017-03-20,Colombia,CO
+2017-03-20,Japan,JP
+2017-03-20,Mexico,MX
+2017-03-21,Mexico,MX
+2017-03-21,South Africa,ZA
+2017-03-24,Argentina,AR
+2017-03-26,Norway,NO
+2017-03-26,Sweden,SE
+2017-04-02,Argentina,AR
+2017-04-02,Norway,NO
+2017-04-02,Sweden,SE
+2017-04-09,Denmark,DK
+2017-04-09,Norway,NO
+2017-04-09,Sweden,SE
+2017-04-13,Argentina,AR
+2017-04-13,Colombia,CO
+2017-04-13,Denmark,DK
+2017-04-13,Norway,NO
+2017-04-14,Argentina,AR
+2017-04-14,Australia,AU
+2017-04-14,Brazil,BR
+2017-04-14,Canada,CA
+2017-04-14,Colombia,CO
+2017-04-14,Czech,CZ
+2017-04-14,Denmark,DK
+2017-04-14,England,None
+2017-04-14,Finland,FI
+2017-04-14,Germany,DE
+2017-04-14,Hungary,HU
+2017-04-14,Isle of Man,IM
+2017-04-14,Netherlands,NL
+2017-04-14,New Zealand,NZ
+2017-04-14,Northern Ireland,None
+2017-04-14,Norway,NO
+2017-04-14,Portugal,PT
+2017-04-14,Scotland,None
+2017-04-14,South Africa,ZA
+2017-04-14,Sweden,SE
+2017-04-14,Switzerland,CH
+2017-04-14,United Kingdom,GB
+2017-04-14,Wales,None
+2017-04-16,Argentina,AR
+2017-04-16,Belgium,BE
+2017-04-16,Brazil,BR
+2017-04-16,Croatia,HR
+2017-04-16,Denmark,DK
+2017-04-16,Finland,FI
+2017-04-16,Hungary,HU
+2017-04-16,Italy,IT
+2017-04-16,Netherlands,NL
+2017-04-16,Norway,NO
+2017-04-16,Poland,PL
+2017-04-16,Portugal,PT
+2017-04-16,Sweden,SE
+2017-04-16,Switzerland,CH
+2017-04-16,Ukraine,UA
+2017-04-17,Australia,AU
+2017-04-17,Austria,AT
+2017-04-17,Belgium,BE
+2017-04-17,Croatia,HR
+2017-04-17,Czech,CZ
+2017-04-17,Denmark,DK
+2017-04-17,England,None
+2017-04-17,Finland,FI
+2017-04-17,France,FR
+2017-04-17,Germany,DE
+2017-04-17,Hungary,HU
+2017-04-17,Ireland,IE
+2017-04-17,Isle of Man,IM
+2017-04-17,Italy,IT
+2017-04-17,Netherlands,NL
+2017-04-17,New Zealand,NZ
+2017-04-17,Northern Ireland,None
+2017-04-17,Norway,NO
+2017-04-17,Poland,PL
+2017-04-17,Slovenia,SI
+2017-04-17,South Africa,ZA
+2017-04-17,Sweden,SE
+2017-04-17,Switzerland,CH
+2017-04-17,United Kingdom,GB
+2017-04-17,Wales,None
+2017-04-21,Brazil,BR
+2017-04-23,Norway,NO
+2017-04-23,Sweden,SE
+2017-04-25,Australia,AU
+2017-04-25,Belarus,BY
+2017-04-25,Italy,IT
+2017-04-25,New Zealand,NZ
+2017-04-25,Portugal,PT
+2017-04-27,Netherlands,NL
+2017-04-27,Slovenia,SI
+2017-04-27,South Africa,ZA
+2017-04-29,Japan,JP
+2017-04-30,Norway,NO
+2017-04-30,Sweden,SE
+2017-05-01,Argentina,AR
+2017-05-01,Austria,AT
+2017-05-01,Belarus,BY
+2017-05-01,Belgium,BE
+2017-05-01,Brazil,BR
+2017-05-01,Colombia,CO
+2017-05-01,Croatia,HR
+2017-05-01,Czech,CZ
+2017-05-01,England,None
+2017-05-01,Finland,FI
+2017-05-01,France,FR
+2017-05-01,Germany,DE
+2017-05-01,Hungary,HU
+2017-05-01,India,IN
+2017-05-01,Ireland,IE
+2017-05-01,Isle of Man,IM
+2017-05-01,Italy,IT
+2017-05-01,Mexico,MX
+2017-05-01,Northern Ireland,None
+2017-05-01,Norway,NO
+2017-05-01,Poland,PL
+2017-05-01,Portugal,PT
+2017-05-01,Scotland,None
+2017-05-01,Slovenia,SI
+2017-05-01,South Africa,ZA
+2017-05-01,Spain,ES
+2017-05-01,Sweden,SE
+2017-05-01,Ukraine,UA
+2017-05-01,United Kingdom,GB
+2017-05-01,Wales,None
+2017-05-02,Slovenia,SI
+2017-05-02,Ukraine,UA
+2017-05-03,Japan,JP
+2017-05-03,Poland,PL
+2017-05-04,Japan,JP
+2017-05-05,Japan,JP
+2017-05-07,Norway,NO
+2017-05-07,Sweden,SE
+2017-05-08,Czech,CZ
+2017-05-08,France,FR
+2017-05-09,Belarus,BY
+2017-05-09,Ukraine,UA
+2017-05-12,Denmark,DK
+2017-05-14,Norway,NO
+2017-05-14,Sweden,SE
+2017-05-17,Norway,NO
+2017-05-21,Norway,NO
+2017-05-21,Sweden,SE
+2017-05-22,Canada,CA
+2017-05-25,Argentina,AR
+2017-05-25,Austria,AT
+2017-05-25,Belgium,BE
+2017-05-25,Denmark,DK
+2017-05-25,Finland,FI
+2017-05-25,France,FR
+2017-05-25,Germany,DE
+2017-05-25,Netherlands,NL
+2017-05-25,Norway,NO
+2017-05-25,Sweden,SE
+2017-05-25,Switzerland,CH
+2017-05-28,Norway,NO
+2017-05-28,Sweden,SE
+2017-05-29,Colombia,CO
+2017-05-29,England,None
+2017-05-29,Isle of Man,IM
+2017-05-29,Northern Ireland,None
+2017-05-29,Scotland,None
+2017-05-29,United Kingdom,GB
+2017-05-29,United States,US
+2017-05-29,Wales,None
+2017-06-02,Isle of Man,IM
+2017-06-02,Italy,IT
+2017-06-04,Belgium,BE
+2017-06-04,Denmark,DK
+2017-06-04,Finland,FI
+2017-06-04,Hungary,HU
+2017-06-04,Netherlands,NL
+2017-06-04,Norway,NO
+2017-06-04,Poland,PL
+2017-06-04,Sweden,SE
+2017-06-04,Switzerland,CH
+2017-06-04,Ukraine,UA
+2017-06-05,Austria,AT
+2017-06-05,Belgium,BE
+2017-06-05,Denmark,DK
+2017-06-05,France,FR
+2017-06-05,Germany,DE
+2017-06-05,Hungary,HU
+2017-06-05,Ireland,IE
+2017-06-05,Netherlands,NL
+2017-06-05,New Zealand,NZ
+2017-06-05,Norway,NO
+2017-06-05,Switzerland,CH
+2017-06-06,Sweden,SE
+2017-06-10,Portugal,PT
+2017-06-11,Norway,NO
+2017-06-11,Sweden,SE
+2017-06-15,Austria,AT
+2017-06-15,Brazil,BR
+2017-06-15,Croatia,HR
+2017-06-15,Poland,PL
+2017-06-15,Portugal,PT
+2017-06-16,South Africa,ZA
+2017-06-17,Argentina,AR
+2017-06-18,Norway,NO
+2017-06-18,Sweden,SE
+2017-06-19,Colombia,CO
+2017-06-20,Argentina,AR
+2017-06-22,Croatia,HR
+2017-06-23,Finland,FI
+2017-06-23,Sweden,SE
+2017-06-24,Finland,FI
+2017-06-24,Sweden,SE
+2017-06-25,Croatia,HR
+2017-06-25,Norway,NO
+2017-06-25,Slovenia,SI
+2017-06-25,Sweden,SE
+2017-06-26,Colombia,CO
+2017-06-28,Ukraine,UA
+2017-07-01,Canada,CA
+2017-07-02,Norway,NO
+2017-07-02,Sweden,SE
+2017-07-03,Belarus,BY
+2017-07-03,Canada,CA
+2017-07-03,Colombia,CO
+2017-07-04,United States,US
+2017-07-05,Czech,CZ
+2017-07-05,Isle of Man,IM
+2017-07-06,Czech,CZ
+2017-07-09,Argentina,AR
+2017-07-09,Norway,NO
+2017-07-09,Sweden,SE
+2017-07-12,Northern Ireland,None
+2017-07-12,United Kingdom,GB
+2017-07-14,France,FR
+2017-07-16,Norway,NO
+2017-07-16,Sweden,SE
+2017-07-17,Japan,JP
+2017-07-20,Colombia,CO
+2017-07-21,Belgium,BE
+2017-07-23,Norway,NO
+2017-07-23,Sweden,SE
+2017-07-30,Norway,NO
+2017-07-30,Sweden,SE
+2017-08-01,Switzerland,CH
+2017-08-05,Croatia,HR
+2017-08-06,Norway,NO
+2017-08-06,Sweden,SE
+2017-08-07,Canada,CA
+2017-08-07,Colombia,CO
+2017-08-07,Ireland,IE
+2017-08-07,Scotland,None
+2017-08-07,United Kingdom,GB
+2017-08-09,South Africa,ZA
+2017-08-11,Japan,JP
+2017-08-13,Norway,NO
+2017-08-13,Sweden,SE
+2017-08-15,Austria,AT
+2017-08-15,Belgium,BE
+2017-08-15,Croatia,HR
+2017-08-15,France,FR
+2017-08-15,India,IN
+2017-08-15,Italy,IT
+2017-08-15,Poland,PL
+2017-08-15,Portugal,PT
+2017-08-15,Slovenia,SI
+2017-08-15,Spain,ES
+2017-08-17,Argentina,AR
+2017-08-20,Hungary,HU
+2017-08-20,Norway,NO
+2017-08-20,Sweden,SE
+2017-08-21,Colombia,CO
+2017-08-24,Ukraine,UA
+2017-08-27,Norway,NO
+2017-08-27,Sweden,SE
+2017-08-28,England,None
+2017-08-28,Isle of Man,IM
+2017-08-28,Northern Ireland,None
+2017-08-28,United Kingdom,GB
+2017-08-28,Wales,None
+2017-09-03,Norway,NO
+2017-09-03,Sweden,SE
+2017-09-04,Canada,CA
+2017-09-04,United States,US
+2017-09-07,Brazil,BR
+2017-09-10,Norway,NO
+2017-09-10,Sweden,SE
+2017-09-15,Mexico,MX
+2017-09-16,Mexico,MX
+2017-09-17,Norway,NO
+2017-09-17,Sweden,SE
+2017-09-18,Japan,JP
+2017-09-23,Japan,JP
+2017-09-24,Norway,NO
+2017-09-24,South Africa,ZA
+2017-09-24,Sweden,SE
+2017-09-25,South Africa,ZA
+2017-09-28,Czech,CZ
+2017-10-01,Norway,NO
+2017-10-01,Sweden,SE
+2017-10-02,India,IN
+2017-10-03,Germany,DE
+2017-10-05,Portugal,PT
+2017-10-08,Croatia,HR
+2017-10-08,Norway,NO
+2017-10-08,Sweden,SE
+2017-10-09,Canada,CA
+2017-10-09,Japan,JP
+2017-10-09,United States,US
+2017-10-12,Argentina,AR
+2017-10-12,Brazil,BR
+2017-10-12,Spain,ES
+2017-10-14,Ukraine,UA
+2017-10-15,Norway,NO
+2017-10-15,Sweden,SE
+2017-10-16,Colombia,CO
+2017-10-22,Norway,NO
+2017-10-22,Sweden,SE
+2017-10-23,Hungary,HU
+2017-10-23,New Zealand,NZ
+2017-10-26,Austria,AT
+2017-10-28,Czech,CZ
+2017-10-29,Norway,NO
+2017-10-29,Sweden,SE
+2017-10-30,Ireland,IE
+2017-10-31,Germany,DE
+2017-10-31,Slovenia,SI
+2017-11-01,Austria,AT
+2017-11-01,Belgium,BE
+2017-11-01,Croatia,HR
+2017-11-01,France,FR
+2017-11-01,Hungary,HU
+2017-11-01,Italy,IT
+2017-11-01,Poland,PL
+2017-11-01,Portugal,PT
+2017-11-01,Slovenia,SI
+2017-11-01,Spain,ES
+2017-11-02,Brazil,BR
+2017-11-03,Japan,JP
+2017-11-04,Finland,FI
+2017-11-04,Sweden,SE
+2017-11-05,Norway,NO
+2017-11-05,Sweden,SE
+2017-11-06,Colombia,CO
+2017-11-07,Belarus,BY
+2017-11-10,United States,US
+2017-11-11,Belgium,BE
+2017-11-11,France,FR
+2017-11-11,Poland,PL
+2017-11-11,United States,US
+2017-11-12,Norway,NO
+2017-11-12,Sweden,SE
+2017-11-13,Colombia,CO
+2017-11-15,Brazil,BR
+2017-11-17,Czech,CZ
+2017-11-19,Norway,NO
+2017-11-19,Sweden,SE
+2017-11-20,Argentina,AR
+2017-11-20,Mexico,MX
+2017-11-23,Japan,JP
+2017-11-23,United States,US
+2017-11-26,Norway,NO
+2017-11-26,Sweden,SE
+2017-11-30,Scotland,None
+2017-11-30,United Kingdom,GB
+2017-12-01,Portugal,PT
+2017-12-03,Norway,NO
+2017-12-03,Sweden,SE
+2017-12-06,Finland,FI
+2017-12-06,Spain,ES
+2017-12-08,Argentina,AR
+2017-12-08,Austria,AT
+2017-12-08,Colombia,CO
+2017-12-08,Italy,IT
+2017-12-08,Portugal,PT
+2017-12-08,Spain,ES
+2017-12-10,Norway,NO
+2017-12-10,Sweden,SE
+2017-12-16,South Africa,ZA
+2017-12-17,Norway,NO
+2017-12-17,Sweden,SE
+2017-12-23,Japan,JP
+2017-12-24,Czech,CZ
+2017-12-24,Finland,FI
+2017-12-24,Norway,NO
+2017-12-24,Sweden,SE
+2017-12-25,Argentina,AR
+2017-12-25,Australia,AU
+2017-12-25,Austria,AT
+2017-12-25,Belarus,BY
+2017-12-25,Belgium,BE
+2017-12-25,Brazil,BR
+2017-12-25,Canada,CA
+2017-12-25,Colombia,CO
+2017-12-25,Croatia,HR
+2017-12-25,Czech,CZ
+2017-12-25,Denmark,DK
+2017-12-25,England,None
+2017-12-25,Finland,FI
+2017-12-25,France,FR
+2017-12-25,Germany,DE
+2017-12-25,Hungary,HU
+2017-12-25,India,IN
+2017-12-25,Ireland,IE
+2017-12-25,Isle of Man,IM
+2017-12-25,Italy,IT
+2017-12-25,Mexico,MX
+2017-12-25,Netherlands,NL
+2017-12-25,New Zealand,NZ
+2017-12-25,Northern Ireland,None
+2017-12-25,Norway,NO
+2017-12-25,Poland,PL
+2017-12-25,Portugal,PT
+2017-12-25,Scotland,None
+2017-12-25,Slovenia,SI
+2017-12-25,South Africa,ZA
+2017-12-25,Spain,ES
+2017-12-25,Sweden,SE
+2017-12-25,Switzerland,CH
+2017-12-25,Ukraine,UA
+2017-12-25,United Kingdom,GB
+2017-12-25,United States,US
+2017-12-25,Wales,None
+2017-12-26,Australia,AU
+2017-12-26,Austria,AT
+2017-12-26,Canada,CA
+2017-12-26,Croatia,HR
+2017-12-26,Czech,CZ
+2017-12-26,Denmark,DK
+2017-12-26,England,None
+2017-12-26,Finland,FI
+2017-12-26,Germany,DE
+2017-12-26,Hungary,HU
+2017-12-26,Ireland,IE
+2017-12-26,Isle of Man,IM
+2017-12-26,Italy,IT
+2017-12-26,Netherlands,NL
+2017-12-26,New Zealand,NZ
+2017-12-26,Northern Ireland,None
+2017-12-26,Norway,NO
+2017-12-26,Poland,PL
+2017-12-26,Scotland,None
+2017-12-26,Slovenia,SI
+2017-12-26,South Africa,ZA
+2017-12-26,Sweden,SE
+2017-12-26,United Kingdom,GB
+2017-12-26,Wales,None
+2017-12-31,Norway,NO
+2017-12-31,Sweden,SE
+2018-01-01,Argentina,AR
+2018-01-01,Australia,AU
+2018-01-01,Austria,AT
+2018-01-01,Belarus,BY
+2018-01-01,Belgium,BE
+2018-01-01,Brazil,BR
+2018-01-01,Canada,CA
+2018-01-01,Colombia,CO
+2018-01-01,Croatia,HR
+2018-01-01,Czech,CZ
+2018-01-01,Denmark,DK
+2018-01-01,England,None
+2018-01-01,Finland,FI
+2018-01-01,France,FR
+2018-01-01,Germany,DE
+2018-01-01,Hungary,HU
+2018-01-01,Ireland,IE
+2018-01-01,Isle of Man,IM
+2018-01-01,Italy,IT
+2018-01-01,Japan,JP
+2018-01-01,Mexico,MX
+2018-01-01,Netherlands,NL
+2018-01-01,New Zealand,NZ
+2018-01-01,Northern Ireland,None
+2018-01-01,Norway,NO
+2018-01-01,Poland,PL
+2018-01-01,Portugal,PT
+2018-01-01,Scotland,None
+2018-01-01,Slovenia,SI
+2018-01-01,South Africa,ZA
+2018-01-01,Spain,ES
+2018-01-01,Sweden,SE
+2018-01-01,Switzerland,CH
+2018-01-01,Ukraine,UA
+2018-01-01,United Kingdom,GB
+2018-01-01,United States,US
+2018-01-01,Wales,None
+2018-01-02,New Zealand,NZ
+2018-01-02,Scotland,None
+2018-01-02,Slovenia,SI
+2018-01-02,United Kingdom,GB
+2018-01-06,Austria,AT
+2018-01-06,Croatia,HR
+2018-01-06,Finland,FI
+2018-01-06,Italy,IT
+2018-01-06,Poland,PL
+2018-01-06,Spain,ES
+2018-01-06,Sweden,SE
+2018-01-07,Belarus,BY
+2018-01-07,Norway,NO
+2018-01-07,Sweden,SE
+2018-01-07,Ukraine,UA
+2018-01-08,Colombia,CO
+2018-01-08,Japan,JP
+2018-01-14,India,IN
+2018-01-14,Norway,NO
+2018-01-14,Sweden,SE
+2018-01-15,United States,US
+2018-01-21,Norway,NO
+2018-01-21,Sweden,SE
+2018-01-26,Australia,AU
+2018-01-26,India,IN
+2018-01-28,Norway,NO
+2018-01-28,Sweden,SE
+2018-02-04,Norway,NO
+2018-02-04,Sweden,SE
+2018-02-05,Mexico,MX
+2018-02-06,New Zealand,NZ
+2018-02-08,Slovenia,SI
+2018-02-11,Japan,JP
+2018-02-11,Norway,NO
+2018-02-11,Sweden,SE
+2018-02-12,Argentina,AR
+2018-02-12,Japan,JP
+2018-02-13,Argentina,AR
+2018-02-13,Brazil,BR
+2018-02-14,Brazil,BR
+2018-02-18,Norway,NO
+2018-02-18,Sweden,SE
+2018-02-19,Canada,CA
+2018-02-19,United States,US
+2018-02-25,Norway,NO
+2018-02-25,Sweden,SE
+2018-03-04,Norway,NO
+2018-03-04,Sweden,SE
+2018-03-08,Belarus,BY
+2018-03-08,Ukraine,UA
+2018-03-11,Norway,NO
+2018-03-11,Sweden,SE
+2018-03-15,Hungary,HU
+2018-03-16,Hungary,HU
+2018-03-17,Ireland,IE
+2018-03-17,Northern Ireland,None
+2018-03-17,United Kingdom,GB
+2018-03-18,Norway,NO
+2018-03-18,Sweden,SE
+2018-03-19,Colombia,CO
+2018-03-19,Ireland,IE
+2018-03-19,Mexico,MX
+2018-03-19,Northern Ireland,None
+2018-03-19,United Kingdom,GB
+2018-03-21,Japan,JP
+2018-03-21,Mexico,MX
+2018-03-21,South Africa,ZA
+2018-03-24,Argentina,AR
+2018-03-25,Denmark,DK
+2018-03-25,Norway,NO
+2018-03-25,Sweden,SE
+2018-03-29,Argentina,AR
+2018-03-29,Colombia,CO
+2018-03-29,Denmark,DK
+2018-03-29,Norway,NO
+2018-03-30,Argentina,AR
+2018-03-30,Australia,AU
+2018-03-30,Brazil,BR
+2018-03-30,Canada,CA
+2018-03-30,Colombia,CO
+2018-03-30,Czech,CZ
+2018-03-30,Denmark,DK
+2018-03-30,England,None
+2018-03-30,Finland,FI
+2018-03-30,Germany,DE
+2018-03-30,Hungary,HU
+2018-03-30,Isle of Man,IM
+2018-03-30,Netherlands,NL
+2018-03-30,New Zealand,NZ
+2018-03-30,Northern Ireland,None
+2018-03-30,Norway,NO
+2018-03-30,Portugal,PT
+2018-03-30,Scotland,None
+2018-03-30,South Africa,ZA
+2018-03-30,Sweden,SE
+2018-03-30,Switzerland,CH
+2018-03-30,United Kingdom,GB
+2018-03-30,Wales,None
+2018-04-01,Argentina,AR
+2018-04-01,Belgium,BE
+2018-04-01,Brazil,BR
+2018-04-01,Croatia,HR
+2018-04-01,Denmark,DK
+2018-04-01,Finland,FI
+2018-04-01,Hungary,HU
+2018-04-01,Italy,IT
+2018-04-01,Netherlands,NL
+2018-04-01,Norway,NO
+2018-04-01,Poland,PL
+2018-04-01,Portugal,PT
+2018-04-01,Sweden,SE
+2018-04-01,Switzerland,CH
+2018-04-02,Argentina,AR
+2018-04-02,Australia,AU
+2018-04-02,Austria,AT
+2018-04-02,Belgium,BE
+2018-04-02,Croatia,HR
+2018-04-02,Czech,CZ
+2018-04-02,Denmark,DK
+2018-04-02,England,None
+2018-04-02,Finland,FI
+2018-04-02,France,FR
+2018-04-02,Germany,DE
+2018-04-02,Hungary,HU
+2018-04-02,Ireland,IE
+2018-04-02,Isle of Man,IM
+2018-04-02,Italy,IT
+2018-04-02,Netherlands,NL
+2018-04-02,New Zealand,NZ
+2018-04-02,Northern Ireland,None
+2018-04-02,Norway,NO
+2018-04-02,Poland,PL
+2018-04-02,Slovenia,SI
+2018-04-02,South Africa,ZA
+2018-04-02,Sweden,SE
+2018-04-02,Switzerland,CH
+2018-04-02,United Kingdom,GB
+2018-04-02,Wales,None
+2018-04-08,Norway,NO
+2018-04-08,Sweden,SE
+2018-04-08,Ukraine,UA
+2018-04-15,Norway,NO
+2018-04-15,Sweden,SE
+2018-04-17,Belarus,BY
+2018-04-21,Brazil,BR
+2018-04-22,Norway,NO
+2018-04-22,Sweden,SE
+2018-04-25,Australia,AU
+2018-04-25,Italy,IT
+2018-04-25,New Zealand,NZ
+2018-04-25,Portugal,PT
+2018-04-27,Denmark,DK
+2018-04-27,Netherlands,NL
+2018-04-27,Slovenia,SI
+2018-04-27,South Africa,ZA
+2018-04-29,Japan,JP
+2018-04-29,Norway,NO
+2018-04-29,Sweden,SE
+2018-04-30,Hungary,HU
+2018-04-30,Japan,JP
+2018-05-01,Argentina,AR
+2018-05-01,Austria,AT
+2018-05-01,Belarus,BY
+2018-05-01,Belgium,BE
+2018-05-01,Brazil,BR
+2018-05-01,Colombia,CO
+2018-05-01,Croatia,HR
+2018-05-01,Czech,CZ
+2018-05-01,Finland,FI
+2018-05-01,France,FR
+2018-05-01,Germany,DE
+2018-05-01,Hungary,HU
+2018-05-01,India,IN
+2018-05-01,Italy,IT
+2018-05-01,Mexico,MX
+2018-05-01,Norway,NO
+2018-05-01,Poland,PL
+2018-05-01,Portugal,PT
+2018-05-01,Slovenia,SI
+2018-05-01,South Africa,ZA
+2018-05-01,Spain,ES
+2018-05-01,Sweden,SE
+2018-05-01,Ukraine,UA
+2018-05-02,Slovenia,SI
+2018-05-03,Japan,JP
+2018-05-03,Poland,PL
+2018-05-04,Japan,JP
+2018-05-05,Japan,JP
+2018-05-06,Norway,NO
+2018-05-06,Sweden,SE
+2018-05-07,England,None
+2018-05-07,Ireland,IE
+2018-05-07,Isle of Man,IM
+2018-05-07,Northern Ireland,None
+2018-05-07,Scotland,None
+2018-05-07,United Kingdom,GB
+2018-05-07,Wales,None
+2018-05-08,Czech,CZ
+2018-05-08,France,FR
+2018-05-09,Belarus,BY
+2018-05-09,Ukraine,UA
+2018-05-10,Austria,AT
+2018-05-10,Belgium,BE
+2018-05-10,Denmark,DK
+2018-05-10,Finland,FI
+2018-05-10,France,FR
+2018-05-10,Germany,DE
+2018-05-10,Netherlands,NL
+2018-05-10,Norway,NO
+2018-05-10,Sweden,SE
+2018-05-10,Switzerland,CH
+2018-05-13,Norway,NO
+2018-05-13,Sweden,SE
+2018-05-14,Colombia,CO
+2018-05-17,Norway,NO
+2018-05-20,Belgium,BE
+2018-05-20,Denmark,DK
+2018-05-20,Finland,FI
+2018-05-20,Hungary,HU
+2018-05-20,Netherlands,NL
+2018-05-20,Norway,NO
+2018-05-20,Poland,PL
+2018-05-20,Sweden,SE
+2018-05-20,Switzerland,CH
+2018-05-21,Austria,AT
+2018-05-21,Belgium,BE
+2018-05-21,Canada,CA
+2018-05-21,Denmark,DK
+2018-05-21,France,FR
+2018-05-21,Germany,DE
+2018-05-21,Hungary,HU
+2018-05-21,Netherlands,NL
+2018-05-21,Norway,NO
+2018-05-21,Switzerland,CH
+2018-05-25,Argentina,AR
+2018-05-27,Norway,NO
+2018-05-27,Sweden,SE
+2018-05-27,Ukraine,UA
+2018-05-28,England,None
+2018-05-28,Isle of Man,IM
+2018-05-28,Northern Ireland,None
+2018-05-28,Scotland,None
+2018-05-28,United Kingdom,GB
+2018-05-28,United States,US
+2018-05-28,Wales,None
+2018-05-31,Austria,AT
+2018-05-31,Brazil,BR
+2018-05-31,Croatia,HR
+2018-05-31,Poland,PL
+2018-05-31,Portugal,PT
+2018-06-01,Isle of Man,IM
+2018-06-02,Italy,IT
+2018-06-03,Norway,NO
+2018-06-03,Sweden,SE
+2018-06-04,Colombia,CO
+2018-06-04,Ireland,IE
+2018-06-04,New Zealand,NZ
+2018-06-06,Sweden,SE
+2018-06-10,Norway,NO
+2018-06-10,Portugal,PT
+2018-06-10,Sweden,SE
+2018-06-11,Colombia,CO
+2018-06-16,South Africa,ZA
+2018-06-17,Argentina,AR
+2018-06-17,Norway,NO
+2018-06-17,Sweden,SE
+2018-06-20,Argentina,AR
+2018-06-22,Croatia,HR
+2018-06-22,Finland,FI
+2018-06-22,Sweden,SE
+2018-06-23,Finland,FI
+2018-06-23,Sweden,SE
+2018-06-24,Norway,NO
+2018-06-24,Sweden,SE
+2018-06-25,Croatia,HR
+2018-06-25,Slovenia,SI
+2018-06-28,Ukraine,UA
+2018-07-01,Canada,CA
+2018-07-01,Norway,NO
+2018-07-01,Sweden,SE
+2018-07-02,Canada,CA
+2018-07-02,Colombia,CO
+2018-07-03,Belarus,BY
+2018-07-04,United States,US
+2018-07-05,Czech,CZ
+2018-07-05,Isle of Man,IM
+2018-07-06,Czech,CZ
+2018-07-08,Norway,NO
+2018-07-08,Sweden,SE
+2018-07-09,Argentina,AR
+2018-07-12,Northern Ireland,None
+2018-07-12,United Kingdom,GB
+2018-07-14,France,FR
+2018-07-15,Norway,NO
+2018-07-15,Sweden,SE
+2018-07-16,Japan,JP
+2018-07-20,Colombia,CO
+2018-07-21,Belgium,BE
+2018-07-22,Norway,NO
+2018-07-22,Sweden,SE
+2018-07-29,Norway,NO
+2018-07-29,Sweden,SE
+2018-08-01,Switzerland,CH
+2018-08-05,Croatia,HR
+2018-08-05,Norway,NO
+2018-08-05,Sweden,SE
+2018-08-06,Canada,CA
+2018-08-06,Ireland,IE
+2018-08-06,Scotland,None
+2018-08-06,United Kingdom,GB
+2018-08-07,Colombia,CO
+2018-08-09,South Africa,ZA
+2018-08-11,Japan,JP
+2018-08-12,Norway,NO
+2018-08-12,Sweden,SE
+2018-08-15,Austria,AT
+2018-08-15,Belgium,BE
+2018-08-15,Croatia,HR
+2018-08-15,France,FR
+2018-08-15,India,IN
+2018-08-15,Italy,IT
+2018-08-15,Poland,PL
+2018-08-15,Portugal,PT
+2018-08-15,Slovenia,SI
+2018-08-15,Spain,ES
+2018-08-17,Argentina,AR
+2018-08-19,Norway,NO
+2018-08-19,Sweden,SE
+2018-08-20,Colombia,CO
+2018-08-20,Hungary,HU
+2018-08-24,Ukraine,UA
+2018-08-26,Norway,NO
+2018-08-26,Sweden,SE
+2018-08-27,England,None
+2018-08-27,Isle of Man,IM
+2018-08-27,Northern Ireland,None
+2018-08-27,United Kingdom,GB
+2018-08-27,Wales,None
+2018-09-02,Norway,NO
+2018-09-02,Sweden,SE
+2018-09-03,Canada,CA
+2018-09-03,United States,US
+2018-09-07,Brazil,BR
+2018-09-09,Norway,NO
+2018-09-09,Sweden,SE
+2018-09-16,Mexico,MX
+2018-09-16,Norway,NO
+2018-09-16,Sweden,SE
+2018-09-17,Japan,JP
+2018-09-17,Mexico,MX
+2018-09-23,Japan,JP
+2018-09-23,Norway,NO
+2018-09-23,Sweden,SE
+2018-09-24,Japan,JP
+2018-09-24,South Africa,ZA
+2018-09-28,Czech,CZ
+2018-09-30,Norway,NO
+2018-09-30,Sweden,SE
+2018-10-02,India,IN
+2018-10-03,Germany,DE
+2018-10-05,Portugal,PT
+2018-10-07,Norway,NO
+2018-10-07,Sweden,SE
+2018-10-08,Canada,CA
+2018-10-08,Croatia,HR
+2018-10-08,Japan,JP
+2018-10-08,United States,US
+2018-10-12,Argentina,AR
+2018-10-12,Brazil,BR
+2018-10-12,Spain,ES
+2018-10-14,Norway,NO
+2018-10-14,Sweden,SE
+2018-10-14,Ukraine,UA
+2018-10-15,Colombia,CO
+2018-10-21,Norway,NO
+2018-10-21,Sweden,SE
+2018-10-22,Hungary,HU
+2018-10-22,New Zealand,NZ
+2018-10-23,Hungary,HU
+2018-10-26,Austria,AT
+2018-10-28,Czech,CZ
+2018-10-28,Norway,NO
+2018-10-28,Sweden,SE
+2018-10-29,Ireland,IE
+2018-10-31,Slovenia,SI
+2018-11-01,Austria,AT
+2018-11-01,Belgium,BE
+2018-11-01,Croatia,HR
+2018-11-01,France,FR
+2018-11-01,Hungary,HU
+2018-11-01,Italy,IT
+2018-11-01,Poland,PL
+2018-11-01,Portugal,PT
+2018-11-01,Slovenia,SI
+2018-11-01,Spain,ES
+2018-11-02,Brazil,BR
+2018-11-02,Hungary,HU
+2018-11-03,Finland,FI
+2018-11-03,Japan,JP
+2018-11-03,Sweden,SE
+2018-11-04,Norway,NO
+2018-11-04,Sweden,SE
+2018-11-05,Colombia,CO
+2018-11-07,Belarus,BY
+2018-11-11,Belgium,BE
+2018-11-11,France,FR
+2018-11-11,Norway,NO
+2018-11-11,Poland,PL
+2018-11-11,Sweden,SE
+2018-11-11,United States,US
+2018-11-12,Colombia,CO
+2018-11-12,United States,US
+2018-11-15,Brazil,BR
+2018-11-17,Czech,CZ
+2018-11-18,Norway,NO
+2018-11-18,Sweden,SE
+2018-11-19,Mexico,MX
+2018-11-20,Argentina,AR
+2018-11-20,Mexico,MX
+2018-11-22,United States,US
+2018-11-23,Japan,JP
+2018-11-25,Norway,NO
+2018-11-25,Sweden,SE
+2018-11-30,Mexico,MX
+2018-11-30,Scotland,None
+2018-11-30,United Kingdom,GB
+2018-12-01,Mexico,MX
+2018-12-01,Portugal,PT
+2018-12-02,Norway,NO
+2018-12-02,Sweden,SE
+2018-12-06,Finland,FI
+2018-12-06,Spain,ES
+2018-12-08,Argentina,AR
+2018-12-08,Austria,AT
+2018-12-08,Italy,IT
+2018-12-08,Portugal,PT
+2018-12-08,Spain,ES
+2018-12-09,Norway,NO
+2018-12-09,Sweden,SE
+2018-12-16,Norway,NO
+2018-12-16,South Africa,ZA
+2018-12-16,Sweden,SE
+2018-12-17,South Africa,ZA
+2018-12-23,Japan,JP
+2018-12-23,Norway,NO
+2018-12-23,Sweden,SE
+2018-12-24,Czech,CZ
+2018-12-24,Finland,FI
+2018-12-24,Hungary,HU
+2018-12-24,Japan,JP
+2018-12-24,Sweden,SE
+2018-12-25,Argentina,AR
+2018-12-25,Australia,AU
+2018-12-25,Austria,AT
+2018-12-25,Belarus,BY
+2018-12-25,Belgium,BE
+2018-12-25,Brazil,BR
+2018-12-25,Canada,CA
+2018-12-25,Colombia,CO
+2018-12-25,Croatia,HR
+2018-12-25,Czech,CZ
+2018-12-25,Denmark,DK
+2018-12-25,England,None
+2018-12-25,Finland,FI
+2018-12-25,France,FR
+2018-12-25,Germany,DE
+2018-12-25,Hungary,HU
+2018-12-25,India,IN
+2018-12-25,Ireland,IE
+2018-12-25,Isle of Man,IM
+2018-12-25,Italy,IT
+2018-12-25,Mexico,MX
+2018-12-25,Netherlands,NL
+2018-12-25,New Zealand,NZ
+2018-12-25,Northern Ireland,None
+2018-12-25,Norway,NO
+2018-12-25,Poland,PL
+2018-12-25,Portugal,PT
+2018-12-25,Scotland,None
+2018-12-25,Slovenia,SI
+2018-12-25,South Africa,ZA
+2018-12-25,Spain,ES
+2018-12-25,Sweden,SE
+2018-12-25,Switzerland,CH
+2018-12-25,Ukraine,UA
+2018-12-25,United Kingdom,GB
+2018-12-25,United States,US
+2018-12-25,Wales,None
+2018-12-26,Australia,AU
+2018-12-26,Austria,AT
+2018-12-26,Canada,CA
+2018-12-26,Croatia,HR
+2018-12-26,Czech,CZ
+2018-12-26,Denmark,DK
+2018-12-26,England,None
+2018-12-26,Finland,FI
+2018-12-26,Germany,DE
+2018-12-26,Hungary,HU
+2018-12-26,Ireland,IE
+2018-12-26,Isle of Man,IM
+2018-12-26,Italy,IT
+2018-12-26,Netherlands,NL
+2018-12-26,New Zealand,NZ
+2018-12-26,Northern Ireland,None
+2018-12-26,Norway,NO
+2018-12-26,Poland,PL
+2018-12-26,Scotland,None
+2018-12-26,Slovenia,SI
+2018-12-26,South Africa,ZA
+2018-12-26,Sweden,SE
+2018-12-26,United Kingdom,GB
+2018-12-26,Wales,None
+2018-12-30,Norway,NO
+2018-12-30,Sweden,SE
+2018-12-31,Hungary,HU
+2018-12-31,Sweden,SE
+2019-01-01,Argentina,AR
+2019-01-01,Australia,AU
+2019-01-01,Austria,AT
+2019-01-01,Belarus,BY
+2019-01-01,Belgium,BE
+2019-01-01,Brazil,BR
+2019-01-01,Canada,CA
+2019-01-01,Colombia,CO
+2019-01-01,Croatia,HR
+2019-01-01,Czech,CZ
+2019-01-01,Denmark,DK
+2019-01-01,England,None
+2019-01-01,Finland,FI
+2019-01-01,France,FR
+2019-01-01,Germany,DE
+2019-01-01,Hungary,HU
+2019-01-01,Ireland,IE
+2019-01-01,Isle of Man,IM
+2019-01-01,Italy,IT
+2019-01-01,Japan,JP
+2019-01-01,Mexico,MX
+2019-01-01,Netherlands,NL
+2019-01-01,New Zealand,NZ
+2019-01-01,Northern Ireland,None
+2019-01-01,Norway,NO
+2019-01-01,Poland,PL
+2019-01-01,Portugal,PT
+2019-01-01,Scotland,None
+2019-01-01,Slovenia,SI
+2019-01-01,South Africa,ZA
+2019-01-01,Spain,ES
+2019-01-01,Sweden,SE
+2019-01-01,Switzerland,CH
+2019-01-01,Ukraine,UA
+2019-01-01,United Kingdom,GB
+2019-01-01,United States,US
+2019-01-01,Wales,None
+2019-01-02,New Zealand,NZ
+2019-01-02,Scotland,None
+2019-01-02,Slovenia,SI
+2019-01-02,United Kingdom,GB
+2019-01-06,Austria,AT
+2019-01-06,Croatia,HR
+2019-01-06,Finland,FI
+2019-01-06,Italy,IT
+2019-01-06,Norway,NO
+2019-01-06,Poland,PL
+2019-01-06,Spain,ES
+2019-01-06,Sweden,SE
+2019-01-07,Belarus,BY
+2019-01-07,Colombia,CO
+2019-01-07,Ukraine,UA
+2019-01-13,Norway,NO
+2019-01-13,Sweden,SE
+2019-01-14,India,IN
+2019-01-14,Japan,JP
+2019-01-20,Norway,NO
+2019-01-20,Sweden,SE
+2019-01-21,United States,US
+2019-01-26,Australia,AU
+2019-01-26,India,IN
+2019-01-27,Norway,NO
+2019-01-27,Sweden,SE
+2019-01-28,Australia,AU
+2019-02-03,Norway,NO
+2019-02-03,Sweden,SE
+2019-02-04,Mexico,MX
+2019-02-05,Mexico,MX
+2019-02-06,New Zealand,NZ
+2019-02-08,Slovenia,SI
+2019-02-10,Norway,NO
+2019-02-10,Sweden,SE
+2019-02-11,Japan,JP
+2019-02-17,Norway,NO
+2019-02-17,Sweden,SE
+2019-02-18,Canada,CA
+2019-02-18,United States,US
+2019-02-24,Norway,NO
+2019-02-24,Sweden,SE
+2019-03-03,Norway,NO
+2019-03-03,Sweden,SE
+2019-03-04,Argentina,AR
+2019-03-05,Argentina,AR
+2019-03-05,Brazil,BR
+2019-03-06,Brazil,BR
+2019-03-08,Belarus,BY
+2019-03-08,Ukraine,UA
+2019-03-10,Norway,NO
+2019-03-10,Sweden,SE
+2019-03-15,Hungary,HU
+2019-03-17,Ireland,IE
+2019-03-17,Northern Ireland,None
+2019-03-17,Norway,NO
+2019-03-17,Sweden,SE
+2019-03-17,United Kingdom,GB
+2019-03-18,Ireland,IE
+2019-03-18,Mexico,MX
+2019-03-18,Northern Ireland,None
+2019-03-18,United Kingdom,GB
+2019-03-21,Japan,JP
+2019-03-21,Mexico,MX
+2019-03-21,South Africa,ZA
+2019-03-24,Argentina,AR
+2019-03-24,Norway,NO
+2019-03-24,Sweden,SE
+2019-03-25,Colombia,CO
+2019-03-31,Norway,NO
+2019-03-31,Sweden,SE
+2019-04-02,Argentina,AR
+2019-04-07,Norway,NO
+2019-04-07,Sweden,SE
+2019-04-14,Denmark,DK
+2019-04-14,Norway,NO
+2019-04-14,Sweden,SE
+2019-04-18,Argentina,AR
+2019-04-18,Colombia,CO
+2019-04-18,Denmark,DK
+2019-04-18,Norway,NO
+2019-04-19,Argentina,AR
+2019-04-19,Australia,AU
+2019-04-19,Brazil,BR
+2019-04-19,Canada,CA
+2019-04-19,Colombia,CO
+2019-04-19,Czech,CZ
+2019-04-19,Denmark,DK
+2019-04-19,England,None
+2019-04-19,Finland,FI
+2019-04-19,Germany,DE
+2019-04-19,Hungary,HU
+2019-04-19,Isle of Man,IM
+2019-04-19,Netherlands,NL
+2019-04-19,New Zealand,NZ
+2019-04-19,Northern Ireland,None
+2019-04-19,Norway,NO
+2019-04-19,Portugal,PT
+2019-04-19,Scotland,None
+2019-04-19,South Africa,ZA
+2019-04-19,Sweden,SE
+2019-04-19,Switzerland,CH
+2019-04-19,United Kingdom,GB
+2019-04-19,Wales,None
+2019-04-21,Argentina,AR
+2019-04-21,Belgium,BE
+2019-04-21,Brazil,BR
+2019-04-21,Croatia,HR
+2019-04-21,Denmark,DK
+2019-04-21,Finland,FI
+2019-04-21,Hungary,HU
+2019-04-21,Italy,IT
+2019-04-21,Netherlands,NL
+2019-04-21,Norway,NO
+2019-04-21,Poland,PL
+2019-04-21,Portugal,PT
+2019-04-21,Sweden,SE
+2019-04-21,Switzerland,CH
+2019-04-22,Australia,AU
+2019-04-22,Austria,AT
+2019-04-22,Belgium,BE
+2019-04-22,Croatia,HR
+2019-04-22,Czech,CZ
+2019-04-22,Denmark,DK
+2019-04-22,England,None
+2019-04-22,Finland,FI
+2019-04-22,France,FR
+2019-04-22,Germany,DE
+2019-04-22,Hungary,HU
+2019-04-22,Ireland,IE
+2019-04-22,Isle of Man,IM
+2019-04-22,Italy,IT
+2019-04-22,Netherlands,NL
+2019-04-22,New Zealand,NZ
+2019-04-22,Northern Ireland,None
+2019-04-22,Norway,NO
+2019-04-22,Poland,PL
+2019-04-22,Slovenia,SI
+2019-04-22,South Africa,ZA
+2019-04-22,Sweden,SE
+2019-04-22,Switzerland,CH
+2019-04-22,United Kingdom,GB
+2019-04-22,Wales,None
+2019-04-25,Australia,AU
+2019-04-25,Italy,IT
+2019-04-25,New Zealand,NZ
+2019-04-25,Portugal,PT
+2019-04-27,Netherlands,NL
+2019-04-27,Slovenia,SI
+2019-04-27,South Africa,ZA
+2019-04-28,Norway,NO
+2019-04-28,Sweden,SE
+2019-04-28,Ukraine,UA
+2019-04-29,Japan,JP
+2019-04-30,Japan,JP
+2019-05-01,Argentina,AR
+2019-05-01,Austria,AT
+2019-05-01,Belarus,BY
+2019-05-01,Belgium,BE
+2019-05-01,Brazil,BR
+2019-05-01,Colombia,CO
+2019-05-01,Croatia,HR
+2019-05-01,Czech,CZ
+2019-05-01,Finland,FI
+2019-05-01,France,FR
+2019-05-01,Germany,DE
+2019-05-01,Hungary,HU
+2019-05-01,India,IN
+2019-05-01,Italy,IT
+2019-05-01,Japan,JP
+2019-05-01,Mexico,MX
+2019-05-01,Norway,NO
+2019-05-01,Poland,PL
+2019-05-01,Portugal,PT
+2019-05-01,Slovenia,SI
+2019-05-01,South Africa,ZA
+2019-05-01,Spain,ES
+2019-05-01,Sweden,SE
+2019-05-01,Ukraine,UA
+2019-05-02,Japan,JP
+2019-05-02,Slovenia,SI
+2019-05-03,Japan,JP
+2019-05-03,Poland,PL
+2019-05-04,Japan,JP
+2019-05-05,Japan,JP
+2019-05-05,Norway,NO
+2019-05-05,Sweden,SE
+2019-05-06,England,None
+2019-05-06,Ireland,IE
+2019-05-06,Isle of Man,IM
+2019-05-06,Japan,JP
+2019-05-06,Northern Ireland,None
+2019-05-06,Scotland,None
+2019-05-06,United Kingdom,GB
+2019-05-06,Wales,None
+2019-05-07,Belarus,BY
+2019-05-08,Czech,CZ
+2019-05-08,France,FR
+2019-05-08,South Africa,ZA
+2019-05-09,Belarus,BY
+2019-05-09,Ukraine,UA
+2019-05-12,Norway,NO
+2019-05-12,Sweden,SE
+2019-05-17,Denmark,DK
+2019-05-17,Norway,NO
+2019-05-19,Norway,NO
+2019-05-19,Sweden,SE
+2019-05-20,Canada,CA
+2019-05-25,Argentina,AR
+2019-05-26,Norway,NO
+2019-05-26,Sweden,SE
+2019-05-27,England,None
+2019-05-27,Isle of Man,IM
+2019-05-27,Northern Ireland,None
+2019-05-27,Scotland,None
+2019-05-27,United Kingdom,GB
+2019-05-27,United States,US
+2019-05-27,Wales,None
+2019-05-30,Austria,AT
+2019-05-30,Belgium,BE
+2019-05-30,Denmark,DK
+2019-05-30,Finland,FI
+2019-05-30,France,FR
+2019-05-30,Germany,DE
+2019-05-30,Netherlands,NL
+2019-05-30,Norway,NO
+2019-05-30,Sweden,SE
+2019-05-30,Switzerland,CH
+2019-06-02,Italy,IT
+2019-06-02,Norway,NO
+2019-06-02,Sweden,SE
+2019-06-03,Colombia,CO
+2019-06-03,Ireland,IE
+2019-06-03,New Zealand,NZ
+2019-06-06,Sweden,SE
+2019-06-07,Isle of Man,IM
+2019-06-09,Belgium,BE
+2019-06-09,Denmark,DK
+2019-06-09,Finland,FI
+2019-06-09,Hungary,HU
+2019-06-09,Netherlands,NL
+2019-06-09,Norway,NO
+2019-06-09,Poland,PL
+2019-06-09,Sweden,SE
+2019-06-09,Switzerland,CH
+2019-06-10,Austria,AT
+2019-06-10,Belgium,BE
+2019-06-10,Denmark,DK
+2019-06-10,France,FR
+2019-06-10,Germany,DE
+2019-06-10,Hungary,HU
+2019-06-10,Netherlands,NL
+2019-06-10,Norway,NO
+2019-06-10,Portugal,PT
+2019-06-10,Switzerland,CH
+2019-06-16,Norway,NO
+2019-06-16,South Africa,ZA
+2019-06-16,Sweden,SE
+2019-06-16,Ukraine,UA
+2019-06-17,Argentina,AR
+2019-06-17,South Africa,ZA
+2019-06-20,Argentina,AR
+2019-06-20,Austria,AT
+2019-06-20,Brazil,BR
+2019-06-20,Croatia,HR
+2019-06-20,Poland,PL
+2019-06-20,Portugal,PT
+2019-06-21,Finland,FI
+2019-06-21,Sweden,SE
+2019-06-22,Croatia,HR
+2019-06-22,Finland,FI
+2019-06-22,Sweden,SE
+2019-06-23,Norway,NO
+2019-06-23,Sweden,SE
+2019-06-24,Colombia,CO
+2019-06-25,Croatia,HR
+2019-06-25,Slovenia,SI
+2019-06-28,Ukraine,UA
+2019-06-30,Norway,NO
+2019-06-30,Sweden,SE
+2019-07-01,Canada,CA
+2019-07-01,Colombia,CO
+2019-07-03,Belarus,BY
+2019-07-04,United States,US
+2019-07-05,Czech,CZ
+2019-07-05,Isle of Man,IM
+2019-07-06,Czech,CZ
+2019-07-07,Norway,NO
+2019-07-07,Sweden,SE
+2019-07-09,Argentina,AR
+2019-07-12,Northern Ireland,None
+2019-07-12,United Kingdom,GB
+2019-07-14,France,FR
+2019-07-14,Norway,NO
+2019-07-14,Sweden,SE
+2019-07-15,Japan,JP
+2019-07-21,Belgium,BE
+2019-07-21,Norway,NO
+2019-07-21,Sweden,SE
+2019-07-28,Norway,NO
+2019-07-28,Sweden,SE
+2019-08-01,Switzerland,CH
+2019-08-04,Norway,NO
+2019-08-04,Sweden,SE
+2019-08-05,Canada,CA
+2019-08-05,Croatia,HR
+2019-08-05,Ireland,IE
+2019-08-05,Scotland,None
+2019-08-05,United Kingdom,GB
+2019-08-07,Colombia,CO
+2019-08-09,South Africa,ZA
+2019-08-11,Japan,JP
+2019-08-11,Norway,NO
+2019-08-11,Sweden,SE
+2019-08-12,Japan,JP
+2019-08-15,Austria,AT
+2019-08-15,Belgium,BE
+2019-08-15,Croatia,HR
+2019-08-15,France,FR
+2019-08-15,India,IN
+2019-08-15,Italy,IT
+2019-08-15,Poland,PL
+2019-08-15,Portugal,PT
+2019-08-15,Slovenia,SI
+2019-08-15,Spain,ES
+2019-08-17,Argentina,AR
+2019-08-18,Norway,NO
+2019-08-18,Sweden,SE
+2019-08-19,Colombia,CO
+2019-08-19,Hungary,HU
+2019-08-20,Hungary,HU
+2019-08-24,Ukraine,UA
+2019-08-25,Norway,NO
+2019-08-25,Sweden,SE
+2019-08-26,England,None
+2019-08-26,Isle of Man,IM
+2019-08-26,Northern Ireland,None
+2019-08-26,United Kingdom,GB
+2019-08-26,Wales,None
+2019-09-01,Norway,NO
+2019-09-01,Sweden,SE
+2019-09-02,Canada,CA
+2019-09-02,United States,US
+2019-09-07,Brazil,BR
+2019-09-08,Norway,NO
+2019-09-08,Sweden,SE
+2019-09-15,Norway,NO
+2019-09-15,Sweden,SE
+2019-09-16,Japan,JP
+2019-09-16,Mexico,MX
+2019-09-22,Norway,NO
+2019-09-22,Sweden,SE
+2019-09-23,Japan,JP
+2019-09-24,South Africa,ZA
+2019-09-28,Czech,CZ
+2019-09-29,Norway,NO
+2019-09-29,Sweden,SE
+2019-10-02,India,IN
+2019-10-03,Germany,DE
+2019-10-05,Portugal,PT
+2019-10-06,Norway,NO
+2019-10-06,Sweden,SE
+2019-10-08,Croatia,HR
+2019-10-12,Argentina,AR
+2019-10-12,Brazil,BR
+2019-10-12,Spain,ES
+2019-10-13,Norway,NO
+2019-10-13,Sweden,SE
+2019-10-14,Canada,CA
+2019-10-14,Colombia,CO
+2019-10-14,Japan,JP
+2019-10-14,Ukraine,UA
+2019-10-14,United States,US
+2019-10-20,Norway,NO
+2019-10-20,Sweden,SE
+2019-10-22,Japan,JP
+2019-10-23,Hungary,HU
+2019-10-26,Austria,AT
+2019-10-27,Norway,NO
+2019-10-27,Sweden,SE
+2019-10-28,Czech,CZ
+2019-10-28,Ireland,IE
+2019-10-28,New Zealand,NZ
+2019-10-31,Slovenia,SI
+2019-11-01,Austria,AT
+2019-11-01,Belgium,BE
+2019-11-01,Croatia,HR
+2019-11-01,France,FR
+2019-11-01,Hungary,HU
+2019-11-01,Italy,IT
+2019-11-01,Poland,PL
+2019-11-01,Portugal,PT
+2019-11-01,Slovenia,SI
+2019-11-01,Spain,ES
+2019-11-02,Brazil,BR
+2019-11-02,Finland,FI
+2019-11-02,Sweden,SE
+2019-11-03,Japan,JP
+2019-11-03,Norway,NO
+2019-11-03,Sweden,SE
+2019-11-04,Colombia,CO
+2019-11-04,Japan,JP
+2019-11-07,Belarus,BY
+2019-11-10,Norway,NO
+2019-11-10,Sweden,SE
+2019-11-11,Belgium,BE
+2019-11-11,Colombia,CO
+2019-11-11,France,FR
+2019-11-11,Poland,PL
+2019-11-11,United States,US
+2019-11-15,Brazil,BR
+2019-11-17,Czech,CZ
+2019-11-17,Norway,NO
+2019-11-17,Sweden,SE
+2019-11-18,Mexico,MX
+2019-11-20,Argentina,AR
+2019-11-20,Mexico,MX
+2019-11-23,Japan,JP
+2019-11-24,Norway,NO
+2019-11-24,Sweden,SE
+2019-11-28,United States,US
+2019-11-30,Scotland,None
+2019-11-30,United Kingdom,GB
+2019-12-01,Norway,NO
+2019-12-01,Portugal,PT
+2019-12-01,Sweden,SE
+2019-12-06,Finland,FI
+2019-12-06,Spain,ES
+2019-12-08,Argentina,AR
+2019-12-08,Austria,AT
+2019-12-08,Italy,IT
+2019-12-08,Norway,NO
+2019-12-08,Portugal,PT
+2019-12-08,Spain,ES
+2019-12-08,Sweden,SE
+2019-12-15,Norway,NO
+2019-12-15,Sweden,SE
+2019-12-16,South Africa,ZA
+2019-12-22,Norway,NO
+2019-12-22,Sweden,SE
+2019-12-24,Czech,CZ
+2019-12-24,Finland,FI
+2019-12-24,Hungary,HU
+2019-12-24,Sweden,SE
+2019-12-25,Argentina,AR
+2019-12-25,Australia,AU
+2019-12-25,Austria,AT
+2019-12-25,Belarus,BY
+2019-12-25,Belgium,BE
+2019-12-25,Brazil,BR
+2019-12-25,Canada,CA
+2019-12-25,Colombia,CO
+2019-12-25,Croatia,HR
+2019-12-25,Czech,CZ
+2019-12-25,Denmark,DK
+2019-12-25,England,None
+2019-12-25,Finland,FI
+2019-12-25,France,FR
+2019-12-25,Germany,DE
+2019-12-25,Hungary,HU
+2019-12-25,India,IN
+2019-12-25,Ireland,IE
+2019-12-25,Isle of Man,IM
+2019-12-25,Italy,IT
+2019-12-25,Mexico,MX
+2019-12-25,Netherlands,NL
+2019-12-25,New Zealand,NZ
+2019-12-25,Northern Ireland,None
+2019-12-25,Norway,NO
+2019-12-25,Poland,PL
+2019-12-25,Portugal,PT
+2019-12-25,Scotland,None
+2019-12-25,Slovenia,SI
+2019-12-25,South Africa,ZA
+2019-12-25,Spain,ES
+2019-12-25,Sweden,SE
+2019-12-25,Switzerland,CH
+2019-12-25,Ukraine,UA
+2019-12-25,United Kingdom,GB
+2019-12-25,United States,US
+2019-12-25,Wales,None
+2019-12-26,Australia,AU
+2019-12-26,Austria,AT
+2019-12-26,Canada,CA
+2019-12-26,Croatia,HR
+2019-12-26,Czech,CZ
+2019-12-26,Denmark,DK
+2019-12-26,England,None
+2019-12-26,Finland,FI
+2019-12-26,Germany,DE
+2019-12-26,Hungary,HU
+2019-12-26,Ireland,IE
+2019-12-26,Isle of Man,IM
+2019-12-26,Italy,IT
+2019-12-26,Netherlands,NL
+2019-12-26,New Zealand,NZ
+2019-12-26,Northern Ireland,None
+2019-12-26,Norway,NO
+2019-12-26,Poland,PL
+2019-12-26,Scotland,None
+2019-12-26,Slovenia,SI
+2019-12-26,South Africa,ZA
+2019-12-26,Sweden,SE
+2019-12-26,United Kingdom,GB
+2019-12-26,Wales,None
+2019-12-27,Hungary,HU
+2019-12-29,Norway,NO
+2019-12-29,Sweden,SE
+2019-12-31,Sweden,SE
+2020-01-01,Argentina,AR
+2020-01-01,Australia,AU
+2020-01-01,Austria,AT
+2020-01-01,Belarus,BY
+2020-01-01,Belgium,BE
+2020-01-01,Brazil,BR
+2020-01-01,Canada,CA
+2020-01-01,Colombia,CO
+2020-01-01,Croatia,HR
+2020-01-01,Czech,CZ
+2020-01-01,Denmark,DK
+2020-01-01,England,None
+2020-01-01,Finland,FI
+2020-01-01,France,FR
+2020-01-01,Germany,DE
+2020-01-01,Hungary,HU
+2020-01-01,Ireland,IE
+2020-01-01,Isle of Man,IM
+2020-01-01,Italy,IT
+2020-01-01,Japan,JP
+2020-01-01,Mexico,MX
+2020-01-01,Netherlands,NL
+2020-01-01,New Zealand,NZ
+2020-01-01,Northern Ireland,None
+2020-01-01,Norway,NO
+2020-01-01,Poland,PL
+2020-01-01,Portugal,PT
+2020-01-01,Scotland,None
+2020-01-01,Slovenia,SI
+2020-01-01,South Africa,ZA
+2020-01-01,Spain,ES
+2020-01-01,Sweden,SE
+2020-01-01,Switzerland,CH
+2020-01-01,Ukraine,UA
+2020-01-01,United Kingdom,GB
+2020-01-01,United States,US
+2020-01-01,Wales,None
+2020-01-02,Belarus,BY
+2020-01-02,New Zealand,NZ
+2020-01-02,Scotland,None
+2020-01-02,Slovenia,SI
+2020-01-02,United Kingdom,GB
+2020-01-05,Norway,NO
+2020-01-05,Sweden,SE
+2020-01-06,Austria,AT
+2020-01-06,Colombia,CO
+2020-01-06,Croatia,HR
+2020-01-06,Finland,FI
+2020-01-06,Italy,IT
+2020-01-06,Poland,PL
+2020-01-06,Spain,ES
+2020-01-06,Sweden,SE
+2020-01-07,Belarus,BY
+2020-01-07,Ukraine,UA
+2020-01-12,Norway,NO
+2020-01-12,Sweden,SE
+2020-01-13,Japan,JP
+2020-01-14,India,IN
+2020-01-19,Norway,NO
+2020-01-19,Sweden,SE
+2020-01-20,United States,US
+2020-01-26,Australia,AU
+2020-01-26,India,IN
+2020-01-26,Norway,NO
+2020-01-26,Sweden,SE
+2020-01-27,Australia,AU
+2020-02-02,Norway,NO
+2020-02-02,Sweden,SE
+2020-02-03,Mexico,MX
+2020-02-05,Mexico,MX
+2020-02-06,New Zealand,NZ
+2020-02-08,Slovenia,SI
+2020-02-09,Norway,NO
+2020-02-09,Sweden,SE
+2020-02-11,Japan,JP
+2020-02-16,Norway,NO
+2020-02-16,Sweden,SE
+2020-02-17,Canada,CA
+2020-02-17,United States,US
+2020-02-23,Japan,JP
+2020-02-23,Norway,NO
+2020-02-23,Sweden,SE
+2020-02-24,Argentina,AR
+2020-02-24,Japan,JP
+2020-02-25,Argentina,AR
+2020-02-25,Brazil,BR
+2020-02-26,Brazil,BR
+2020-03-01,Norway,NO
+2020-03-01,Sweden,SE
+2020-03-08,Belarus,BY
+2020-03-08,Norway,NO
+2020-03-08,Sweden,SE
+2020-03-08,Ukraine,UA
+2020-03-15,Hungary,HU
+2020-03-15,Norway,NO
+2020-03-15,Sweden,SE
+2020-03-16,Mexico,MX
+2020-03-17,Ireland,IE
+2020-03-17,Northern Ireland,None
+2020-03-17,United Kingdom,GB
+2020-03-20,Japan,JP
+2020-03-21,Mexico,MX
+2020-03-21,South Africa,ZA
+2020-03-22,Norway,NO
+2020-03-22,Sweden,SE
+2020-03-23,Colombia,CO
+2020-03-24,Argentina,AR
+2020-03-29,Norway,NO
+2020-03-29,Sweden,SE
+2020-04-02,Argentina,AR
+2020-04-05,Denmark,DK
+2020-04-05,Norway,NO
+2020-04-05,Sweden,SE
+2020-04-09,Argentina,AR
+2020-04-09,Colombia,CO
+2020-04-09,Denmark,DK
+2020-04-09,Norway,NO
+2020-04-10,Argentina,AR
+2020-04-10,Australia,AU
+2020-04-10,Brazil,BR
+2020-04-10,Canada,CA
+2020-04-10,Colombia,CO
+2020-04-10,Czech,CZ
+2020-04-10,Denmark,DK
+2020-04-10,England,None
+2020-04-10,Finland,FI
+2020-04-10,Germany,DE
+2020-04-10,Hungary,HU
+2020-04-10,Isle of Man,IM
+2020-04-10,Netherlands,NL
+2020-04-10,New Zealand,NZ
+2020-04-10,Northern Ireland,None
+2020-04-10,Norway,NO
+2020-04-10,Portugal,PT
+2020-04-10,Scotland,None
+2020-04-10,South Africa,ZA
+2020-04-10,Sweden,SE
+2020-04-10,Switzerland,CH
+2020-04-10,United Kingdom,GB
+2020-04-10,Wales,None
+2020-04-12,Argentina,AR
+2020-04-12,Belgium,BE
+2020-04-12,Brazil,BR
+2020-04-12,Croatia,HR
+2020-04-12,Denmark,DK
+2020-04-12,Finland,FI
+2020-04-12,Hungary,HU
+2020-04-12,Italy,IT
+2020-04-12,Netherlands,NL
+2020-04-12,Norway,NO
+2020-04-12,Poland,PL
+2020-04-12,Portugal,PT
+2020-04-12,Sweden,SE
+2020-04-12,Switzerland,CH
+2020-04-13,Australia,AU
+2020-04-13,Austria,AT
+2020-04-13,Belgium,BE
+2020-04-13,Croatia,HR
+2020-04-13,Czech,CZ
+2020-04-13,Denmark,DK
+2020-04-13,England,None
+2020-04-13,Finland,FI
+2020-04-13,France,FR
+2020-04-13,Germany,DE
+2020-04-13,Hungary,HU
+2020-04-13,Ireland,IE
+2020-04-13,Isle of Man,IM
+2020-04-13,Italy,IT
+2020-04-13,Netherlands,NL
+2020-04-13,New Zealand,NZ
+2020-04-13,Northern Ireland,None
+2020-04-13,Norway,NO
+2020-04-13,Poland,PL
+2020-04-13,Slovenia,SI
+2020-04-13,South Africa,ZA
+2020-04-13,Sweden,SE
+2020-04-13,Switzerland,CH
+2020-04-13,United Kingdom,GB
+2020-04-13,Wales,None
+2020-04-19,Norway,NO
+2020-04-19,Sweden,SE
+2020-04-19,Ukraine,UA
+2020-04-21,Brazil,BR
+2020-04-25,Australia,AU
+2020-04-25,Italy,IT
+2020-04-25,New Zealand,NZ
+2020-04-25,Portugal,PT
+2020-04-26,Norway,NO
+2020-04-26,Sweden,SE
+2020-04-27,Netherlands,NL
+2020-04-27,New Zealand,NZ
+2020-04-27,Slovenia,SI
+2020-04-27,South Africa,ZA
+2020-04-28,Belarus,BY
+2020-04-29,Japan,JP
+2020-05-01,Argentina,AR
+2020-05-01,Austria,AT
+2020-05-01,Belarus,BY
+2020-05-01,Belgium,BE
+2020-05-01,Brazil,BR
+2020-05-01,Colombia,CO
+2020-05-01,Croatia,HR
+2020-05-01,Czech,CZ
+2020-05-01,Finland,FI
+2020-05-01,France,FR
+2020-05-01,Germany,DE
+2020-05-01,Hungary,HU
+2020-05-01,India,IN
+2020-05-01,Italy,IT
+2020-05-01,Mexico,MX
+2020-05-01,Norway,NO
+2020-05-01,Poland,PL
+2020-05-01,Portugal,PT
+2020-05-01,Slovenia,SI
+2020-05-01,South Africa,ZA
+2020-05-01,Spain,ES
+2020-05-01,Sweden,SE
+2020-05-01,Ukraine,UA
+2020-05-02,Slovenia,SI
+2020-05-03,Japan,JP
+2020-05-03,Norway,NO
+2020-05-03,Poland,PL
+2020-05-03,Sweden,SE
+2020-05-04,Ireland,IE
+2020-05-04,Japan,JP
+2020-05-05,Japan,JP
+2020-05-05,Netherlands,NL
+2020-05-06,Japan,JP
+2020-05-08,Czech,CZ
+2020-05-08,Denmark,DK
+2020-05-08,England,None
+2020-05-08,France,FR
+2020-05-08,Isle of Man,IM
+2020-05-08,Northern Ireland,None
+2020-05-08,Scotland,None
+2020-05-08,United Kingdom,GB
+2020-05-08,Wales,None
+2020-05-09,Belarus,BY
+2020-05-09,Ukraine,UA
+2020-05-10,Norway,NO
+2020-05-10,Sweden,SE
+2020-05-17,Norway,NO
+2020-05-17,Sweden,SE
+2020-05-18,Canada,CA
+2020-05-21,Austria,AT
+2020-05-21,Belgium,BE
+2020-05-21,Denmark,DK
+2020-05-21,Finland,FI
+2020-05-21,France,FR
+2020-05-21,Germany,DE
+2020-05-21,Netherlands,NL
+2020-05-21,Norway,NO
+2020-05-21,Sweden,SE
+2020-05-21,Switzerland,CH
+2020-05-24,Norway,NO
+2020-05-24,Sweden,SE
+2020-05-25,Argentina,AR
+2020-05-25,Colombia,CO
+2020-05-25,England,None
+2020-05-25,Isle of Man,IM
+2020-05-25,Northern Ireland,None
+2020-05-25,Scotland,None
+2020-05-25,United Kingdom,GB
+2020-05-25,United States,US
+2020-05-25,Wales,None
+2020-05-31,Belgium,BE
+2020-05-31,Denmark,DK
+2020-05-31,Finland,FI
+2020-05-31,Hungary,HU
+2020-05-31,Netherlands,NL
+2020-05-31,Norway,NO
+2020-05-31,Poland,PL
+2020-05-31,Sweden,SE
+2020-05-31,Switzerland,CH
+2020-06-01,Austria,AT
+2020-06-01,Belgium,BE
+2020-06-01,Denmark,DK
+2020-06-01,France,FR
+2020-06-01,Germany,DE
+2020-06-01,Hungary,HU
+2020-06-01,Ireland,IE
+2020-06-01,Netherlands,NL
+2020-06-01,New Zealand,NZ
+2020-06-01,Norway,NO
+2020-06-01,Switzerland,CH
+2020-06-02,Italy,IT
+2020-06-05,Isle of Man,IM
+2020-06-06,Sweden,SE
+2020-06-07,Norway,NO
+2020-06-07,Sweden,SE
+2020-06-07,Ukraine,UA
+2020-06-10,Portugal,PT
+2020-06-11,Austria,AT
+2020-06-11,Brazil,BR
+2020-06-11,Croatia,HR
+2020-06-11,Poland,PL
+2020-06-11,Portugal,PT
+2020-06-14,Norway,NO
+2020-06-14,Sweden,SE
+2020-06-15,Colombia,CO
+2020-06-16,South Africa,ZA
+2020-06-17,Argentina,AR
+2020-06-19,Finland,FI
+2020-06-19,Sweden,SE
+2020-06-20,Argentina,AR
+2020-06-20,Finland,FI
+2020-06-20,Sweden,SE
+2020-06-21,Norway,NO
+2020-06-21,Sweden,SE
+2020-06-22,Colombia,CO
+2020-06-22,Croatia,HR
+2020-06-25,Slovenia,SI
+2020-06-28,Norway,NO
+2020-06-28,Sweden,SE
+2020-06-28,Ukraine,UA
+2020-06-29,Colombia,CO
+2020-07-01,Canada,CA
+2020-07-03,Belarus,BY
+2020-07-03,United States,US
+2020-07-04,United States,US
+2020-07-05,Czech,CZ
+2020-07-05,Isle of Man,IM
+2020-07-05,Norway,NO
+2020-07-05,Sweden,SE
+2020-07-06,Czech,CZ
+2020-07-09,Argentina,AR
+2020-07-12,Northern Ireland,None
+2020-07-12,Norway,NO
+2020-07-12,Sweden,SE
+2020-07-12,United Kingdom,GB
+2020-07-14,France,FR
+2020-07-19,Norway,NO
+2020-07-19,Sweden,SE
+2020-07-20,Colombia,CO
+2020-07-21,Belgium,BE
+2020-07-23,Japan,JP
+2020-07-24,Japan,JP
+2020-07-26,Norway,NO
+2020-07-26,Sweden,SE
+2020-08-01,Switzerland,CH
+2020-08-02,Norway,NO
+2020-08-02,Sweden,SE
+2020-08-03,Canada,CA
+2020-08-03,Ireland,IE
+2020-08-03,Scotland,None
+2020-08-03,United Kingdom,GB
+2020-08-05,Croatia,HR
+2020-08-07,Colombia,CO
+2020-08-09,Norway,NO
+2020-08-09,South Africa,ZA
+2020-08-09,Sweden,SE
+2020-08-10,Japan,JP
+2020-08-10,South Africa,ZA
+2020-08-15,Austria,AT
+2020-08-15,Belgium,BE
+2020-08-15,Croatia,HR
+2020-08-15,France,FR
+2020-08-15,India,IN
+2020-08-15,Italy,IT
+2020-08-15,Poland,PL
+2020-08-15,Portugal,PT
+2020-08-15,Slovenia,SI
+2020-08-15,Spain,ES
+2020-08-16,Norway,NO
+2020-08-16,Sweden,SE
+2020-08-17,Argentina,AR
+2020-08-17,Colombia,CO
+2020-08-20,Hungary,HU
+2020-08-21,Hungary,HU
+2020-08-23,Norway,NO
+2020-08-23,Sweden,SE
+2020-08-24,Ukraine,UA
+2020-08-30,Norway,NO
+2020-08-30,Sweden,SE
+2020-08-31,England,None
+2020-08-31,Isle of Man,IM
+2020-08-31,Northern Ireland,None
+2020-08-31,United Kingdom,GB
+2020-08-31,Wales,None
+2020-09-06,Norway,NO
+2020-09-06,Sweden,SE
+2020-09-07,Brazil,BR
+2020-09-07,Canada,CA
+2020-09-07,United States,US
+2020-09-13,Norway,NO
+2020-09-13,Sweden,SE
+2020-09-16,Mexico,MX
+2020-09-20,Norway,NO
+2020-09-20,Sweden,SE
+2020-09-21,Japan,JP
+2020-09-22,Japan,JP
+2020-09-24,South Africa,ZA
+2020-09-27,Norway,NO
+2020-09-27,Sweden,SE
+2020-09-28,Czech,CZ
+2020-10-02,India,IN
+2020-10-03,Germany,DE
+2020-10-04,Norway,NO
+2020-10-04,Sweden,SE
+2020-10-05,Portugal,PT
+2020-10-08,Croatia,HR
+2020-10-11,Norway,NO
+2020-10-11,Sweden,SE
+2020-10-12,Argentina,AR
+2020-10-12,Brazil,BR
+2020-10-12,Canada,CA
+2020-10-12,Colombia,CO
+2020-10-12,Spain,ES
+2020-10-12,United States,US
+2020-10-14,Ukraine,UA
+2020-10-18,Norway,NO
+2020-10-18,Sweden,SE
+2020-10-23,Hungary,HU
+2020-10-25,Norway,NO
+2020-10-25,Sweden,SE
+2020-10-26,Austria,AT
+2020-10-26,Ireland,IE
+2020-10-26,New Zealand,NZ
+2020-10-28,Czech,CZ
+2020-10-31,Finland,FI
+2020-10-31,Slovenia,SI
+2020-10-31,Sweden,SE
+2020-11-01,Austria,AT
+2020-11-01,Belgium,BE
+2020-11-01,Croatia,HR
+2020-11-01,France,FR
+2020-11-01,Hungary,HU
+2020-11-01,Italy,IT
+2020-11-01,Norway,NO
+2020-11-01,Poland,PL
+2020-11-01,Portugal,PT
+2020-11-01,Slovenia,SI
+2020-11-01,Spain,ES
+2020-11-01,Sweden,SE
+2020-11-02,Brazil,BR
+2020-11-02,Colombia,CO
+2020-11-03,Japan,JP
+2020-11-07,Belarus,BY
+2020-11-08,Norway,NO
+2020-11-08,Sweden,SE
+2020-11-11,Belgium,BE
+2020-11-11,France,FR
+2020-11-11,Poland,PL
+2020-11-11,United States,US
+2020-11-15,Brazil,BR
+2020-11-15,Norway,NO
+2020-11-15,Sweden,SE
+2020-11-16,Colombia,CO
+2020-11-16,Mexico,MX
+2020-11-17,Czech,CZ
+2020-11-18,Croatia,HR
+2020-11-20,Argentina,AR
+2020-11-20,Mexico,MX
+2020-11-22,Norway,NO
+2020-11-22,Sweden,SE
+2020-11-23,Japan,JP
+2020-11-26,United States,US
+2020-11-29,Norway,NO
+2020-11-29,Sweden,SE
+2020-11-30,Scotland,None
+2020-11-30,United Kingdom,GB
+2020-12-01,Portugal,PT
+2020-12-06,Finland,FI
+2020-12-06,Norway,NO
+2020-12-06,Spain,ES
+2020-12-06,Sweden,SE
+2020-12-08,Argentina,AR
+2020-12-08,Austria,AT
+2020-12-08,Colombia,CO
+2020-12-08,Italy,IT
+2020-12-08,Portugal,PT
+2020-12-08,Spain,ES
+2020-12-13,Norway,NO
+2020-12-13,Sweden,SE
+2020-12-16,South Africa,ZA
+2020-12-20,Norway,NO
+2020-12-20,Sweden,SE
+2020-12-24,Czech,CZ
+2020-12-24,Finland,FI
+2020-12-24,Hungary,HU
+2020-12-24,Sweden,SE
+2020-12-25,Argentina,AR
+2020-12-25,Australia,AU
+2020-12-25,Austria,AT
+2020-12-25,Belarus,BY
+2020-12-25,Belgium,BE
+2020-12-25,Brazil,BR
+2020-12-25,Canada,CA
+2020-12-25,Colombia,CO
+2020-12-25,Croatia,HR
+2020-12-25,Czech,CZ
+2020-12-25,Denmark,DK
+2020-12-25,England,None
+2020-12-25,Finland,FI
+2020-12-25,France,FR
+2020-12-25,Germany,DE
+2020-12-25,Hungary,HU
+2020-12-25,India,IN
+2020-12-25,Ireland,IE
+2020-12-25,Isle of Man,IM
+2020-12-25,Italy,IT
+2020-12-25,Mexico,MX
+2020-12-25,Netherlands,NL
+2020-12-25,New Zealand,NZ
+2020-12-25,Northern Ireland,None
+2020-12-25,Norway,NO
+2020-12-25,Poland,PL
+2020-12-25,Portugal,PT
+2020-12-25,Scotland,None
+2020-12-25,Slovenia,SI
+2020-12-25,South Africa,ZA
+2020-12-25,Spain,ES
+2020-12-25,Sweden,SE
+2020-12-25,Switzerland,CH
+2020-12-25,Ukraine,UA
+2020-12-25,United Kingdom,GB
+2020-12-25,United States,US
+2020-12-25,Wales,None
+2020-12-26,Australia,AU
+2020-12-26,Austria,AT
+2020-12-26,Croatia,HR
+2020-12-26,Czech,CZ
+2020-12-26,Denmark,DK
+2020-12-26,England,None
+2020-12-26,Finland,FI
+2020-12-26,Germany,DE
+2020-12-26,Hungary,HU
+2020-12-26,Ireland,IE
+2020-12-26,Isle of Man,IM
+2020-12-26,Italy,IT
+2020-12-26,Netherlands,NL
+2020-12-26,New Zealand,NZ
+2020-12-26,Northern Ireland,None
+2020-12-26,Norway,NO
+2020-12-26,Poland,PL
+2020-12-26,Scotland,None
+2020-12-26,Slovenia,SI
+2020-12-26,South Africa,ZA
+2020-12-26,Sweden,SE
+2020-12-26,United Kingdom,GB
+2020-12-26,Wales,None
+2020-12-27,Norway,NO
+2020-12-27,Sweden,SE
+2020-12-28,Australia,AU
+2020-12-28,Canada,CA
+2020-12-28,England,None
+2020-12-28,Ireland,IE
+2020-12-28,Isle of Man,IM
+2020-12-28,New Zealand,NZ
+2020-12-28,Northern Ireland,None
+2020-12-28,Scotland,None
+2020-12-28,United Kingdom,GB
+2020-12-28,Wales,None
+2020-12-31,Sweden,SE
+2021-01-01,Argentina,AR
+2021-01-01,Australia,AU
+2021-01-01,Austria,AT
+2021-01-01,Belarus,BY
+2021-01-01,Belgium,BE
+2021-01-01,Brazil,BR
+2021-01-01,Canada,CA
+2021-01-01,Colombia,CO
+2021-01-01,Croatia,HR
+2021-01-01,Czech,CZ
+2021-01-01,Denmark,DK
+2021-01-01,England,None
+2021-01-01,Finland,FI
+2021-01-01,France,FR
+2021-01-01,Germany,DE
+2021-01-01,Hungary,HU
+2021-01-01,Ireland,IE
+2021-01-01,Isle of Man,IM
+2021-01-01,Italy,IT
+2021-01-01,Japan,JP
+2021-01-01,Mexico,MX
+2021-01-01,Netherlands,NL
+2021-01-01,New Zealand,NZ
+2021-01-01,Northern Ireland,None
+2021-01-01,Norway,NO
+2021-01-01,Poland,PL
+2021-01-01,Portugal,PT
+2021-01-01,Scotland,None
+2021-01-01,Slovenia,SI
+2021-01-01,South Africa,ZA
+2021-01-01,Spain,ES
+2021-01-01,Sweden,SE
+2021-01-01,Switzerland,CH
+2021-01-01,Ukraine,UA
+2021-01-01,United Kingdom,GB
+2021-01-01,United States,US
+2021-01-01,Wales,None
+2021-01-02,Belarus,BY
+2021-01-02,New Zealand,NZ
+2021-01-02,Scotland,None
+2021-01-02,Slovenia,SI
+2021-01-02,United Kingdom,GB
+2021-01-03,Norway,NO
+2021-01-03,Sweden,SE
+2021-01-04,New Zealand,NZ
+2021-01-04,Scotland,None
+2021-01-04,United Kingdom,GB
+2021-01-06,Austria,AT
+2021-01-06,Croatia,HR
+2021-01-06,Finland,FI
+2021-01-06,Italy,IT
+2021-01-06,Poland,PL
+2021-01-06,Spain,ES
+2021-01-06,Sweden,SE
+2021-01-07,Belarus,BY
+2021-01-07,Ukraine,UA
+2021-01-10,Norway,NO
+2021-01-10,Sweden,SE
+2021-01-11,Colombia,CO
+2021-01-11,Japan,JP
+2021-01-14,India,IN
+2021-01-17,Norway,NO
+2021-01-17,Sweden,SE
+2021-01-18,United States,US
+2021-01-24,Norway,NO
+2021-01-24,Sweden,SE
+2021-01-26,Australia,AU
+2021-01-26,India,IN
+2021-01-31,Norway,NO
+2021-01-31,Sweden,SE
+2021-02-01,Mexico,MX
+2021-02-05,Mexico,MX
+2021-02-06,New Zealand,NZ
+2021-02-07,Norway,NO
+2021-02-07,Sweden,SE
+2021-02-08,New Zealand,NZ
+2021-02-08,Slovenia,SI
+2021-02-11,Japan,JP
+2021-02-14,Norway,NO
+2021-02-14,Sweden,SE
+2021-02-15,Argentina,AR
+2021-02-15,Canada,CA
+2021-02-15,United States,US
+2021-02-16,Argentina,AR
+2021-02-16,Brazil,BR
+2021-02-17,Brazil,BR
+2021-02-21,Norway,NO
+2021-02-21,Sweden,SE
+2021-02-23,Japan,JP
+2021-02-28,Norway,NO
+2021-02-28,Sweden,SE
+2021-03-07,Norway,NO
+2021-03-07,Sweden,SE
+2021-03-08,Belarus,BY
+2021-03-08,Ukraine,UA
+2021-03-14,Norway,NO
+2021-03-14,Sweden,SE
+2021-03-15,Hungary,HU
+2021-03-15,Mexico,MX
+2021-03-17,Ireland,IE
+2021-03-17,Northern Ireland,None
+2021-03-17,United Kingdom,GB
+2021-03-20,Japan,JP
+2021-03-21,Mexico,MX
+2021-03-21,Norway,NO
+2021-03-21,South Africa,ZA
+2021-03-21,Sweden,SE
+2021-03-22,Colombia,CO
+2021-03-22,South Africa,ZA
+2021-03-24,Argentina,AR
+2021-03-28,Denmark,DK
+2021-03-28,Norway,NO
+2021-03-28,Sweden,SE
+2021-04-01,Argentina,AR
+2021-04-01,Colombia,CO
+2021-04-01,Denmark,DK
+2021-04-01,Norway,NO
+2021-04-02,Argentina,AR
+2021-04-02,Australia,AU
+2021-04-02,Brazil,BR
+2021-04-02,Canada,CA
+2021-04-02,Colombia,CO
+2021-04-02,Czech,CZ
+2021-04-02,Denmark,DK
+2021-04-02,England,None
+2021-04-02,Finland,FI
+2021-04-02,Germany,DE
+2021-04-02,Hungary,HU
+2021-04-02,Isle of Man,IM
+2021-04-02,Netherlands,NL
+2021-04-02,New Zealand,NZ
+2021-04-02,Northern Ireland,None
+2021-04-02,Norway,NO
+2021-04-02,Portugal,PT
+2021-04-02,Scotland,None
+2021-04-02,South Africa,ZA
+2021-04-02,Sweden,SE
+2021-04-02,Switzerland,CH
+2021-04-02,United Kingdom,GB
+2021-04-02,Wales,None
+2021-04-04,Argentina,AR
+2021-04-04,Belgium,BE
+2021-04-04,Brazil,BR
+2021-04-04,Croatia,HR
+2021-04-04,Denmark,DK
+2021-04-04,Finland,FI
+2021-04-04,Hungary,HU
+2021-04-04,Italy,IT
+2021-04-04,Netherlands,NL
+2021-04-04,Norway,NO
+2021-04-04,Poland,PL
+2021-04-04,Portugal,PT
+2021-04-04,Sweden,SE
+2021-04-04,Switzerland,CH
+2021-04-05,Australia,AU
+2021-04-05,Austria,AT
+2021-04-05,Belgium,BE
+2021-04-05,Croatia,HR
+2021-04-05,Czech,CZ
+2021-04-05,Denmark,DK
+2021-04-05,England,None
+2021-04-05,Finland,FI
+2021-04-05,France,FR
+2021-04-05,Germany,DE
+2021-04-05,Hungary,HU
+2021-04-05,Ireland,IE
+2021-04-05,Isle of Man,IM
+2021-04-05,Italy,IT
+2021-04-05,Netherlands,NL
+2021-04-05,New Zealand,NZ
+2021-04-05,Northern Ireland,None
+2021-04-05,Norway,NO
+2021-04-05,Poland,PL
+2021-04-05,Slovenia,SI
+2021-04-05,South Africa,ZA
+2021-04-05,Sweden,SE
+2021-04-05,Switzerland,CH
+2021-04-05,United Kingdom,GB
+2021-04-05,Wales,None
+2021-04-11,Norway,NO
+2021-04-11,Sweden,SE
+2021-04-18,Norway,NO
+2021-04-18,Sweden,SE
+2021-04-21,Brazil,BR
+2021-04-25,Australia,AU
+2021-04-25,Italy,IT
+2021-04-25,New Zealand,NZ
+2021-04-25,Norway,NO
+2021-04-25,Portugal,PT
+2021-04-25,Sweden,SE
+2021-04-26,New Zealand,NZ
+2021-04-27,Netherlands,NL
+2021-04-27,Slovenia,SI
+2021-04-27,South Africa,ZA
+2021-04-29,Japan,JP
+2021-04-30,Denmark,DK
+2021-04-30,Mexico,MX
+2021-05-01,Argentina,AR
+2021-05-01,Austria,AT
+2021-05-01,Belarus,BY
+2021-05-01,Belgium,BE
+2021-05-01,Brazil,BR
+2021-05-01,Colombia,CO
+2021-05-01,Croatia,HR
+2021-05-01,Czech,CZ
+2021-05-01,Finland,FI
+2021-05-01,France,FR
+2021-05-01,Germany,DE
+2021-05-01,Hungary,HU
+2021-05-01,India,IN
+2021-05-01,Italy,IT
+2021-05-01,Mexico,MX
+2021-05-01,Norway,NO
+2021-05-01,Poland,PL
+2021-05-01,Portugal,PT
+2021-05-01,Slovenia,SI
+2021-05-01,South Africa,ZA
+2021-05-01,Spain,ES
+2021-05-01,Sweden,SE
+2021-05-01,Ukraine,UA
+2021-05-02,Norway,NO
+2021-05-02,Slovenia,SI
+2021-05-02,Sweden,SE
+2021-05-02,Ukraine,UA
+2021-05-03,England,None
+2021-05-03,Ireland,IE
+2021-05-03,Isle of Man,IM
+2021-05-03,Japan,JP
+2021-05-03,Northern Ireland,None
+2021-05-03,Poland,PL
+2021-05-03,Scotland,None
+2021-05-03,United Kingdom,GB
+2021-05-03,Wales,None
+2021-05-04,Japan,JP
+2021-05-05,Japan,JP
+2021-05-08,Czech,CZ
+2021-05-08,France,FR
+2021-05-09,Belarus,BY
+2021-05-09,Norway,NO
+2021-05-09,Sweden,SE
+2021-05-09,Ukraine,UA
+2021-05-11,Belarus,BY
+2021-05-13,Austria,AT
+2021-05-13,Belgium,BE
+2021-05-13,Denmark,DK
+2021-05-13,Finland,FI
+2021-05-13,France,FR
+2021-05-13,Germany,DE
+2021-05-13,Netherlands,NL
+2021-05-13,Norway,NO
+2021-05-13,Sweden,SE
+2021-05-13,Switzerland,CH
+2021-05-16,Norway,NO
+2021-05-16,Sweden,SE
+2021-05-17,Colombia,CO
+2021-05-17,Norway,NO
+2021-05-23,Belgium,BE
+2021-05-23,Denmark,DK
+2021-05-23,Finland,FI
+2021-05-23,Hungary,HU
+2021-05-23,Netherlands,NL
+2021-05-23,Norway,NO
+2021-05-23,Poland,PL
+2021-05-23,Sweden,SE
+2021-05-23,Switzerland,CH
+2021-05-24,Austria,AT
+2021-05-24,Belgium,BE
+2021-05-24,Canada,CA
+2021-05-24,Denmark,DK
+2021-05-24,France,FR
+2021-05-24,Germany,DE
+2021-05-24,Hungary,HU
+2021-05-24,Netherlands,NL
+2021-05-24,Norway,NO
+2021-05-24,Switzerland,CH
+2021-05-25,Argentina,AR
+2021-05-30,Norway,NO
+2021-05-30,Sweden,SE
+2021-05-31,England,None
+2021-05-31,Isle of Man,IM
+2021-05-31,Northern Ireland,None
+2021-05-31,Scotland,None
+2021-05-31,United Kingdom,GB
+2021-05-31,United States,US
+2021-05-31,Wales,None
+2021-06-02,Italy,IT
+2021-06-03,Austria,AT
+2021-06-03,Brazil,BR
+2021-06-03,Croatia,HR
+2021-06-03,Poland,PL
+2021-06-03,Portugal,PT
+2021-06-04,Isle of Man,IM
+2021-06-06,Norway,NO
+2021-06-06,Sweden,SE
+2021-06-07,Colombia,CO
+2021-06-07,Ireland,IE
+2021-06-07,New Zealand,NZ
+2021-06-10,Portugal,PT
+2021-06-13,Norway,NO
+2021-06-13,Sweden,SE
+2021-06-14,Colombia,CO
+2021-06-16,South Africa,ZA
+2021-06-17,Argentina,AR
+2021-06-20,Argentina,AR
+2021-06-20,Norway,NO
+2021-06-20,Sweden,SE
+2021-06-20,Ukraine,UA
+2021-06-22,Croatia,HR
+2021-06-25,Finland,FI
+2021-06-25,Slovenia,SI
+2021-06-25,Sweden,SE
+2021-06-26,Finland,FI
+2021-06-26,Sweden,SE
+2021-06-27,Norway,NO
+2021-06-27,Sweden,SE
+2021-06-28,Ukraine,UA
+2021-07-01,Canada,CA
+2021-07-03,Belarus,BY
+2021-07-04,Norway,NO
+2021-07-04,Sweden,SE
+2021-07-04,United States,US
+2021-07-05,Colombia,CO
+2021-07-05,Czech,CZ
+2021-07-05,Isle of Man,IM
+2021-07-05,United States,US
+2021-07-06,Czech,CZ
+2021-07-09,Argentina,AR
+2021-07-11,Norway,NO
+2021-07-11,Sweden,SE
+2021-07-12,Northern Ireland,None
+2021-07-12,United Kingdom,GB
+2021-07-14,France,FR
+2021-07-18,Norway,NO
+2021-07-18,Sweden,SE
+2021-07-19,Japan,JP
+2021-07-20,Colombia,CO
+2021-07-21,Belgium,BE
+2021-07-25,Norway,NO
+2021-07-25,Sweden,SE
+2021-08-01,Norway,NO
+2021-08-01,Sweden,SE
+2021-08-01,Switzerland,CH
+2021-08-02,Canada,CA
+2021-08-02,Ireland,IE
+2021-08-02,Scotland,None
+2021-08-02,United Kingdom,GB
+2021-08-05,Croatia,HR
+2021-08-07,Colombia,CO
+2021-08-08,Norway,NO
+2021-08-08,Sweden,SE
+2021-08-09,South Africa,ZA
+2021-08-11,Japan,JP
+2021-08-15,Austria,AT
+2021-08-15,Belgium,BE
+2021-08-15,Croatia,HR
+2021-08-15,France,FR
+2021-08-15,India,IN
+2021-08-15,Italy,IT
+2021-08-15,Norway,NO
+2021-08-15,Poland,PL
+2021-08-15,Portugal,PT
+2021-08-15,Slovenia,SI
+2021-08-15,Spain,ES
+2021-08-15,Sweden,SE
+2021-08-16,Colombia,CO
+2021-08-17,Argentina,AR
+2021-08-20,Hungary,HU
+2021-08-22,Norway,NO
+2021-08-22,Sweden,SE
+2021-08-24,Ukraine,UA
+2021-08-29,Norway,NO
+2021-08-29,Sweden,SE
+2021-08-30,England,None
+2021-08-30,Isle of Man,IM
+2021-08-30,Northern Ireland,None
+2021-08-30,United Kingdom,GB
+2021-08-30,Wales,None
+2021-09-05,Norway,NO
+2021-09-05,Sweden,SE
+2021-09-06,Canada,CA
+2021-09-06,United States,US
+2021-09-07,Brazil,BR
+2021-09-12,Norway,NO
+2021-09-12,Sweden,SE
+2021-09-16,Mexico,MX
+2021-09-19,Norway,NO
+2021-09-19,Sweden,SE
+2021-09-20,Japan,JP
+2021-09-23,Japan,JP
+2021-09-24,South Africa,ZA
+2021-09-26,Norway,NO
+2021-09-26,Sweden,SE
+2021-09-28,Czech,CZ
+2021-10-02,India,IN
+2021-10-03,Germany,DE
+2021-10-03,Norway,NO
+2021-10-03,Sweden,SE
+2021-10-05,Portugal,PT
+2021-10-08,Croatia,HR
+2021-10-10,Norway,NO
+2021-10-10,Sweden,SE
+2021-10-11,Canada,CA
+2021-10-11,Japan,JP
+2021-10-11,United States,US
+2021-10-12,Argentina,AR
+2021-10-12,Brazil,BR
+2021-10-12,Spain,ES
+2021-10-14,Ukraine,UA
+2021-10-17,Norway,NO
+2021-10-17,Sweden,SE
+2021-10-18,Colombia,CO
+2021-10-23,Hungary,HU
+2021-10-24,Norway,NO
+2021-10-24,Sweden,SE
+2021-10-25,Ireland,IE
+2021-10-25,New Zealand,NZ
+2021-10-26,Austria,AT
+2021-10-28,Czech,CZ
+2021-10-31,Norway,NO
+2021-10-31,Slovenia,SI
+2021-10-31,Sweden,SE
+2021-11-01,Austria,AT
+2021-11-01,Belgium,BE
+2021-11-01,Colombia,CO
+2021-11-01,Croatia,HR
+2021-11-01,France,FR
+2021-11-01,Hungary,HU
+2021-11-01,Italy,IT
+2021-11-01,Poland,PL
+2021-11-01,Portugal,PT
+2021-11-01,Slovenia,SI
+2021-11-01,Spain,ES
+2021-11-02,Brazil,BR
+2021-11-03,Japan,JP
+2021-11-06,Finland,FI
+2021-11-06,Sweden,SE
+2021-11-07,Belarus,BY
+2021-11-07,Norway,NO
+2021-11-07,Sweden,SE
+2021-11-11,Belgium,BE
+2021-11-11,France,FR
+2021-11-11,Poland,PL
+2021-11-11,United States,US
+2021-11-14,Norway,NO
+2021-11-14,Sweden,SE
+2021-11-15,Brazil,BR
+2021-11-15,Colombia,CO
+2021-11-15,Mexico,MX
+2021-11-17,Czech,CZ
+2021-11-18,Croatia,HR
+2021-11-20,Argentina,AR
+2021-11-20,Mexico,MX
+2021-11-21,Norway,NO
+2021-11-21,Sweden,SE
+2021-11-23,Japan,JP
+2021-11-25,United States,US
+2021-11-28,Norway,NO
+2021-11-28,Sweden,SE
+2021-11-30,Scotland,None
+2021-11-30,United Kingdom,GB
+2021-12-01,Portugal,PT
+2021-12-05,Norway,NO
+2021-12-05,Sweden,SE
+2021-12-06,Finland,FI
+2021-12-06,Spain,ES
+2021-12-08,Argentina,AR
+2021-12-08,Austria,AT
+2021-12-08,Colombia,CO
+2021-12-08,Italy,IT
+2021-12-08,Portugal,PT
+2021-12-08,Spain,ES
+2021-12-12,Norway,NO
+2021-12-12,Sweden,SE
+2021-12-16,South Africa,ZA
+2021-12-19,Norway,NO
+2021-12-19,Sweden,SE
+2021-12-24,Canada,CA
+2021-12-24,Czech,CZ
+2021-12-24,Finland,FI
+2021-12-24,Hungary,HU
+2021-12-24,Mexico,MX
+2021-12-24,Sweden,SE
+2021-12-24,United States,US
+2021-12-25,Argentina,AR
+2021-12-25,Australia,AU
+2021-12-25,Austria,AT
+2021-12-25,Belarus,BY
+2021-12-25,Belgium,BE
+2021-12-25,Brazil,BR
+2021-12-25,Canada,CA
+2021-12-25,Colombia,CO
+2021-12-25,Croatia,HR
+2021-12-25,Czech,CZ
+2021-12-25,Denmark,DK
+2021-12-25,England,None
+2021-12-25,Finland,FI
+2021-12-25,France,FR
+2021-12-25,Germany,DE
+2021-12-25,Hungary,HU
+2021-12-25,India,IN
+2021-12-25,Ireland,IE
+2021-12-25,Isle of Man,IM
+2021-12-25,Italy,IT
+2021-12-25,Mexico,MX
+2021-12-25,Netherlands,NL
+2021-12-25,New Zealand,NZ
+2021-12-25,Northern Ireland,None
+2021-12-25,Norway,NO
+2021-12-25,Poland,PL
+2021-12-25,Portugal,PT
+2021-12-25,Scotland,None
+2021-12-25,Slovenia,SI
+2021-12-25,South Africa,ZA
+2021-12-25,Spain,ES
+2021-12-25,Sweden,SE
+2021-12-25,Switzerland,CH
+2021-12-25,Ukraine,UA
+2021-12-25,United Kingdom,GB
+2021-12-25,United States,US
+2021-12-25,Wales,None
+2021-12-26,Australia,AU
+2021-12-26,Austria,AT
+2021-12-26,Croatia,HR
+2021-12-26,Czech,CZ
+2021-12-26,Denmark,DK
+2021-12-26,England,None
+2021-12-26,Finland,FI
+2021-12-26,Germany,DE
+2021-12-26,Hungary,HU
+2021-12-26,Ireland,IE
+2021-12-26,Isle of Man,IM
+2021-12-26,Italy,IT
+2021-12-26,Netherlands,NL
+2021-12-26,New Zealand,NZ
+2021-12-26,Northern Ireland,None
+2021-12-26,Norway,NO
+2021-12-26,Poland,PL
+2021-12-26,Scotland,None
+2021-12-26,Slovenia,SI
+2021-12-26,South Africa,ZA
+2021-12-26,Sweden,SE
+2021-12-26,United Kingdom,GB
+2021-12-26,Wales,None
+2021-12-27,Australia,AU
+2021-12-27,Canada,CA
+2021-12-27,England,None
+2021-12-27,Ireland,IE
+2021-12-27,Isle of Man,IM
+2021-12-27,New Zealand,NZ
+2021-12-27,Northern Ireland,None
+2021-12-27,Scotland,None
+2021-12-27,South Africa,ZA
+2021-12-27,United Kingdom,GB
+2021-12-27,Wales,None
+2021-12-28,Australia,AU
+2021-12-28,England,None
+2021-12-28,Ireland,IE
+2021-12-28,Isle of Man,IM
+2021-12-28,New Zealand,NZ
+2021-12-28,Northern Ireland,None
+2021-12-28,Scotland,None
+2021-12-28,United Kingdom,GB
+2021-12-28,Wales,None
+2021-12-31,Canada,CA
+2021-12-31,Mexico,MX
+2021-12-31,Sweden,SE
+2021-12-31,United States,US
+2022-01-01,Argentina,AR
+2022-01-01,Australia,AU
+2022-01-01,Austria,AT
+2022-01-01,Belarus,BY
+2022-01-01,Belgium,BE
+2022-01-01,Brazil,BR
+2022-01-01,Canada,CA
+2022-01-01,Croatia,HR
+2022-01-01,Czech,CZ
+2022-01-01,Denmark,DK
+2022-01-01,England,None
+2022-01-01,Finland,FI
+2022-01-01,France,FR
+2022-01-01,Germany,DE
+2022-01-01,Hungary,HU
+2022-01-01,Ireland,IE
+2022-01-01,Isle of Man,IM
+2022-01-01,Italy,IT
+2022-01-01,Japan,JP
+2022-01-01,Mexico,MX
+2022-01-01,Netherlands,NL
+2022-01-01,New Zealand,NZ
+2022-01-01,Northern Ireland,None
+2022-01-01,Norway,NO
+2022-01-01,Poland,PL
+2022-01-01,Portugal,PT
+2022-01-01,Scotland,None
+2022-01-01,Slovenia,SI
+2022-01-01,South Africa,ZA
+2022-01-01,Spain,ES
+2022-01-01,Sweden,SE
+2022-01-01,Switzerland,CH
+2022-01-01,Ukraine,UA
+2022-01-01,United Kingdom,GB
+2022-01-01,United States,US
+2022-01-01,Wales,None
+2022-01-02,Belarus,BY
+2022-01-02,New Zealand,NZ
+2022-01-02,Norway,NO
+2022-01-02,Scotland,None
+2022-01-02,Slovenia,SI
+2022-01-02,Sweden,SE
+2022-01-02,United Kingdom,GB
+2022-01-03,Australia,AU
+2022-01-03,England,None
+2022-01-03,Ireland,IE
+2022-01-03,Isle of Man,IM
+2022-01-03,New Zealand,NZ
+2022-01-03,Northern Ireland,None
+2022-01-03,Scotland,None
+2022-01-03,United Kingdom,GB
+2022-01-03,Wales,None
+2022-01-04,New Zealand,NZ
+2022-01-04,Scotland,None
+2022-01-04,United Kingdom,GB
+2022-01-06,Austria,AT
+2022-01-06,Croatia,HR
+2022-01-06,Finland,FI
+2022-01-06,Italy,IT
+2022-01-06,Poland,PL
+2022-01-06,Spain,ES
+2022-01-06,Sweden,SE
+2022-01-07,Belarus,BY
+2022-01-07,Ukraine,UA
+2022-01-09,Norway,NO
+2022-01-09,Sweden,SE
+2022-01-10,Colombia,CO
+2022-01-10,Japan,JP
+2022-01-14,India,IN
+2022-01-16,Norway,NO
+2022-01-16,Sweden,SE
+2022-01-17,United States,US
+2022-01-23,Norway,NO
+2022-01-23,Sweden,SE
+2022-01-26,Australia,AU
+2022-01-26,India,IN
+2022-01-30,Norway,NO
+2022-01-30,Sweden,SE
+2022-02-05,Mexico,MX
+2022-02-06,New Zealand,NZ
+2022-02-06,Norway,NO
+2022-02-06,Sweden,SE
+2022-02-07,Mexico,MX
+2022-02-07,New Zealand,NZ
+2022-02-08,Slovenia,SI
+2022-02-11,Japan,JP
+2022-02-13,Norway,NO
+2022-02-13,Sweden,SE
+2022-02-20,Norway,NO
+2022-02-20,Sweden,SE
+2022-02-21,Canada,CA
+2022-02-21,United States,US
+2022-02-23,Japan,JP
+2022-02-27,Norway,NO
+2022-02-27,Sweden,SE
+2022-02-28,Argentina,AR
+2022-03-01,Argentina,AR
+2022-03-01,Brazil,BR
+2022-03-02,Brazil,BR
+2022-03-06,Norway,NO
+2022-03-06,Sweden,SE
+2022-03-08,Belarus,BY
+2022-03-08,Ukraine,UA
+2022-03-13,Norway,NO
+2022-03-13,Sweden,SE
+2022-03-14,Hungary,HU
+2022-03-15,Hungary,HU
+2022-03-17,Ireland,IE
+2022-03-17,Northern Ireland,None
+2022-03-17,United Kingdom,GB
+2022-03-20,Norway,NO
+2022-03-20,Sweden,SE
+2022-03-21,Colombia,CO
+2022-03-21,Japan,JP
+2022-03-21,Mexico,MX
+2022-03-21,South Africa,ZA
+2022-03-24,Argentina,AR
+2022-03-27,Norway,NO
+2022-03-27,Sweden,SE
+2022-04-02,Argentina,AR
+2022-04-03,Norway,NO
+2022-04-03,Sweden,SE
+2022-04-10,Denmark,DK
+2022-04-10,Norway,NO
+2022-04-10,Sweden,SE
+2022-04-14,Argentina,AR
+2022-04-14,Colombia,CO
+2022-04-14,Denmark,DK
+2022-04-14,Norway,NO
+2022-04-15,Argentina,AR
+2022-04-15,Australia,AU
+2022-04-15,Brazil,BR
+2022-04-15,Canada,CA
+2022-04-15,Colombia,CO
+2022-04-15,Czech,CZ
+2022-04-15,Denmark,DK
+2022-04-15,England,None
+2022-04-15,Finland,FI
+2022-04-15,Germany,DE
+2022-04-15,Hungary,HU
+2022-04-15,Isle of Man,IM
+2022-04-15,Netherlands,NL
+2022-04-15,New Zealand,NZ
+2022-04-15,Northern Ireland,None
+2022-04-15,Norway,NO
+2022-04-15,Portugal,PT
+2022-04-15,Scotland,None
+2022-04-15,South Africa,ZA
+2022-04-15,Sweden,SE
+2022-04-15,Switzerland,CH
+2022-04-15,United Kingdom,GB
+2022-04-15,Wales,None
+2022-04-17,Argentina,AR
+2022-04-17,Belgium,BE
+2022-04-17,Brazil,BR
+2022-04-17,Croatia,HR
+2022-04-17,Denmark,DK
+2022-04-17,Finland,FI
+2022-04-17,Hungary,HU
+2022-04-17,Italy,IT
+2022-04-17,Netherlands,NL
+2022-04-17,Norway,NO
+2022-04-17,Poland,PL
+2022-04-17,Portugal,PT
+2022-04-17,Sweden,SE
+2022-04-17,Switzerland,CH
+2022-04-18,Australia,AU
+2022-04-18,Austria,AT
+2022-04-18,Belgium,BE
+2022-04-18,Croatia,HR
+2022-04-18,Czech,CZ
+2022-04-18,Denmark,DK
+2022-04-18,England,None
+2022-04-18,Finland,FI
+2022-04-18,France,FR
+2022-04-18,Germany,DE
+2022-04-18,Hungary,HU
+2022-04-18,Ireland,IE
+2022-04-18,Isle of Man,IM
+2022-04-18,Italy,IT
+2022-04-18,Netherlands,NL
+2022-04-18,New Zealand,NZ
+2022-04-18,Northern Ireland,None
+2022-04-18,Norway,NO
+2022-04-18,Poland,PL
+2022-04-18,Slovenia,SI
+2022-04-18,South Africa,ZA
+2022-04-18,Sweden,SE
+2022-04-18,Switzerland,CH
+2022-04-18,United Kingdom,GB
+2022-04-18,Wales,None
+2022-04-21,Brazil,BR
+2022-04-24,Norway,NO
+2022-04-24,Sweden,SE
+2022-04-24,Ukraine,UA
+2022-04-25,Australia,AU
+2022-04-25,Italy,IT
+2022-04-25,New Zealand,NZ
+2022-04-25,Portugal,PT
+2022-04-27,Netherlands,NL
+2022-04-27,Slovenia,SI
+2022-04-27,South Africa,ZA
+2022-04-29,Japan,JP
+2022-05-01,Argentina,AR
+2022-05-01,Austria,AT
+2022-05-01,Belarus,BY
+2022-05-01,Belgium,BE
+2022-05-01,Brazil,BR
+2022-05-01,Colombia,CO
+2022-05-01,Croatia,HR
+2022-05-01,Czech,CZ
+2022-05-01,Finland,FI
+2022-05-01,France,FR
+2022-05-01,Germany,DE
+2022-05-01,Hungary,HU
+2022-05-01,India,IN
+2022-05-01,Italy,IT
+2022-05-01,Mexico,MX
+2022-05-01,Norway,NO
+2022-05-01,Poland,PL
+2022-05-01,Portugal,PT
+2022-05-01,Slovenia,SI
+2022-05-01,South Africa,ZA
+2022-05-01,Spain,ES
+2022-05-01,Sweden,SE
+2022-05-01,Ukraine,UA
+2022-05-02,England,None
+2022-05-02,Ireland,IE
+2022-05-02,Isle of Man,IM
+2022-05-02,Mexico,MX
+2022-05-02,Northern Ireland,None
+2022-05-02,Scotland,None
+2022-05-02,Slovenia,SI
+2022-05-02,South Africa,ZA
+2022-05-02,United Kingdom,GB
+2022-05-02,Wales,None
+2022-05-03,Belarus,BY
+2022-05-03,Japan,JP
+2022-05-03,Poland,PL
+2022-05-04,Japan,JP
+2022-05-05,Japan,JP
+2022-05-08,Czech,CZ
+2022-05-08,France,FR
+2022-05-08,Norway,NO
+2022-05-08,Sweden,SE
+2022-05-09,Belarus,BY
+2022-05-09,Ukraine,UA
+2022-05-13,Denmark,DK
+2022-05-15,Norway,NO
+2022-05-15,Sweden,SE
+2022-05-17,Norway,NO
+2022-05-22,Norway,NO
+2022-05-22,Sweden,SE
+2022-05-23,Canada,CA
+2022-05-25,Argentina,AR
+2022-05-26,Austria,AT
+2022-05-26,Belgium,BE
+2022-05-26,Denmark,DK
+2022-05-26,Finland,FI
+2022-05-26,France,FR
+2022-05-26,Germany,DE
+2022-05-26,Netherlands,NL
+2022-05-26,Norway,NO
+2022-05-26,Sweden,SE
+2022-05-26,Switzerland,CH
+2022-05-29,Norway,NO
+2022-05-29,Sweden,SE
+2022-05-30,Colombia,CO
+2022-05-30,England,None
+2022-05-30,Isle of Man,IM
+2022-05-30,Northern Ireland,None
+2022-05-30,Scotland,None
+2022-05-30,United Kingdom,GB
+2022-05-30,United States,US
+2022-05-30,Wales,None
+2022-06-02,Italy,IT
+2022-06-03,Isle of Man,IM
+2022-06-05,Belgium,BE
+2022-06-05,Denmark,DK
+2022-06-05,Finland,FI
+2022-06-05,Hungary,HU
+2022-06-05,Netherlands,NL
+2022-06-05,Norway,NO
+2022-06-05,Poland,PL
+2022-06-05,Sweden,SE
+2022-06-05,Switzerland,CH
+2022-06-06,Austria,AT
+2022-06-06,Belgium,BE
+2022-06-06,Denmark,DK
+2022-06-06,France,FR
+2022-06-06,Germany,DE
+2022-06-06,Hungary,HU
+2022-06-06,Ireland,IE
+2022-06-06,Netherlands,NL
+2022-06-06,New Zealand,NZ
+2022-06-06,Norway,NO
+2022-06-06,Sweden,SE
+2022-06-06,Switzerland,CH
+2022-06-10,Portugal,PT
+2022-06-12,Norway,NO
+2022-06-12,Sweden,SE
+2022-06-12,Ukraine,UA
+2022-06-16,Austria,AT
+2022-06-16,Brazil,BR
+2022-06-16,Croatia,HR
+2022-06-16,Poland,PL
+2022-06-16,Portugal,PT
+2022-06-16,South Africa,ZA
+2022-06-17,Argentina,AR
+2022-06-19,Norway,NO
+2022-06-19,Sweden,SE
+2022-06-20,Argentina,AR
+2022-06-20,Colombia,CO
+2022-06-22,Croatia,HR
+2022-06-24,Finland,FI
+2022-06-24,Sweden,SE
+2022-06-25,Finland,FI
+2022-06-25,Slovenia,SI
+2022-06-25,Sweden,SE
+2022-06-26,Norway,NO
+2022-06-26,Sweden,SE
+2022-06-27,Colombia,CO
+2022-06-28,Ukraine,UA
+2022-07-01,Canada,CA
+2022-07-03,Belarus,BY
+2022-07-03,Norway,NO
+2022-07-03,Sweden,SE
+2022-07-04,Colombia,CO
+2022-07-04,United States,US
+2022-07-05,Czech,CZ
+2022-07-05,Isle of Man,IM
+2022-07-06,Czech,CZ
+2022-07-09,Argentina,AR
+2022-07-10,Norway,NO
+2022-07-10,Sweden,SE
+2022-07-12,Northern Ireland,None
+2022-07-12,United Kingdom,GB
+2022-07-14,France,FR
+2022-07-17,Norway,NO
+2022-07-17,Sweden,SE
+2022-07-18,Japan,JP
+2022-07-20,Colombia,CO
+2022-07-21,Belgium,BE
+2022-07-24,Norway,NO
+2022-07-24,Sweden,SE
+2022-07-31,Norway,NO
+2022-07-31,Sweden,SE
+2022-08-01,Canada,CA
+2022-08-01,Ireland,IE
+2022-08-01,Scotland,None
+2022-08-01,Switzerland,CH
+2022-08-01,United Kingdom,GB
+2022-08-05,Croatia,HR
+2022-08-07,Colombia,CO
+2022-08-07,Norway,NO
+2022-08-07,Sweden,SE
+2022-08-09,South Africa,ZA
+2022-08-11,Japan,JP
+2022-08-14,Norway,NO
+2022-08-14,Sweden,SE
+2022-08-15,Austria,AT
+2022-08-15,Belgium,BE
+2022-08-15,Colombia,CO
+2022-08-15,Croatia,HR
+2022-08-15,France,FR
+2022-08-15,India,IN
+2022-08-15,Italy,IT
+2022-08-15,Poland,PL
+2022-08-15,Portugal,PT
+2022-08-15,Slovenia,SI
+2022-08-15,Spain,ES
+2022-08-17,Argentina,AR
+2022-08-20,Hungary,HU
+2022-08-21,Norway,NO
+2022-08-21,Sweden,SE
+2022-08-24,Ukraine,UA
+2022-08-28,Norway,NO
+2022-08-28,Sweden,SE
+2022-08-29,England,None
+2022-08-29,Isle of Man,IM
+2022-08-29,Northern Ireland,None
+2022-08-29,United Kingdom,GB
+2022-08-29,Wales,None
+2022-09-04,Norway,NO
+2022-09-04,Sweden,SE
+2022-09-05,Canada,CA
+2022-09-05,United States,US
+2022-09-07,Brazil,BR
+2022-09-11,Norway,NO
+2022-09-11,Sweden,SE
+2022-09-16,Mexico,MX
+2022-09-18,Norway,NO
+2022-09-18,Sweden,SE
+2022-09-19,Japan,JP
+2022-09-23,Japan,JP
+2022-09-24,South Africa,ZA
+2022-09-25,Norway,NO
+2022-09-25,Sweden,SE
+2022-09-28,Czech,CZ
+2022-10-02,India,IN
+2022-10-02,Norway,NO
+2022-10-02,Sweden,SE
+2022-10-03,Germany,DE
+2022-10-05,Portugal,PT
+2022-10-08,Croatia,HR
+2022-10-09,Norway,NO
+2022-10-09,Sweden,SE
+2022-10-10,Canada,CA
+2022-10-10,Japan,JP
+2022-10-10,United States,US
+2022-10-12,Argentina,AR
+2022-10-12,Brazil,BR
+2022-10-12,Spain,ES
+2022-10-14,Ukraine,UA
+2022-10-16,Norway,NO
+2022-10-16,Sweden,SE
+2022-10-17,Colombia,CO
+2022-10-23,Hungary,HU
+2022-10-23,Norway,NO
+2022-10-23,Sweden,SE
+2022-10-24,New Zealand,NZ
+2022-10-26,Austria,AT
+2022-10-28,Czech,CZ
+2022-10-30,Norway,NO
+2022-10-30,Sweden,SE
+2022-10-31,Hungary,HU
+2022-10-31,Ireland,IE
+2022-10-31,Slovenia,SI
+2022-11-01,Austria,AT
+2022-11-01,Belgium,BE
+2022-11-01,Croatia,HR
+2022-11-01,France,FR
+2022-11-01,Hungary,HU
+2022-11-01,Italy,IT
+2022-11-01,Poland,PL
+2022-11-01,Portugal,PT
+2022-11-01,Slovenia,SI
+2022-11-01,Spain,ES
+2022-11-02,Brazil,BR
+2022-11-03,Japan,JP
+2022-11-05,Finland,FI
+2022-11-05,Sweden,SE
+2022-11-06,Norway,NO
+2022-11-06,Sweden,SE
+2022-11-07,Belarus,BY
+2022-11-07,Colombia,CO
+2022-11-11,Belgium,BE
+2022-11-11,France,FR
+2022-11-11,Poland,PL
+2022-11-11,United States,US
+2022-11-13,Norway,NO
+2022-11-13,Sweden,SE
+2022-11-14,Colombia,CO
+2022-11-15,Brazil,BR
+2022-11-17,Czech,CZ
+2022-11-18,Croatia,HR
+2022-11-20,Argentina,AR
+2022-11-20,Mexico,MX
+2022-11-20,Norway,NO
+2022-11-20,Sweden,SE
+2022-11-21,Mexico,MX
+2022-11-23,Japan,JP
+2022-11-24,United States,US
+2022-11-27,Norway,NO
+2022-11-27,Sweden,SE
+2022-11-30,Scotland,None
+2022-11-30,United Kingdom,GB
+2022-12-01,Portugal,PT
+2022-12-04,Norway,NO
+2022-12-04,Sweden,SE
+2022-12-06,Finland,FI
+2022-12-06,Spain,ES
+2022-12-08,Argentina,AR
+2022-12-08,Austria,AT
+2022-12-08,Colombia,CO
+2022-12-08,Italy,IT
+2022-12-08,Portugal,PT
+2022-12-08,Spain,ES
+2022-12-11,Norway,NO
+2022-12-11,Sweden,SE
+2022-12-16,South Africa,ZA
+2022-12-18,Norway,NO
+2022-12-18,Sweden,SE
+2022-12-24,Czech,CZ
+2022-12-24,Finland,FI
+2022-12-24,Sweden,SE
+2022-12-25,Argentina,AR
+2022-12-25,Australia,AU
+2022-12-25,Austria,AT
+2022-12-25,Belarus,BY
+2022-12-25,Belgium,BE
+2022-12-25,Brazil,BR
+2022-12-25,Canada,CA
+2022-12-25,Colombia,CO
+2022-12-25,Croatia,HR
+2022-12-25,Czech,CZ
+2022-12-25,Denmark,DK
+2022-12-25,England,None
+2022-12-25,Finland,FI
+2022-12-25,France,FR
+2022-12-25,Germany,DE
+2022-12-25,Hungary,HU
+2022-12-25,India,IN
+2022-12-25,Ireland,IE
+2022-12-25,Isle of Man,IM
+2022-12-25,Italy,IT
+2022-12-25,Mexico,MX
+2022-12-25,Netherlands,NL
+2022-12-25,New Zealand,NZ
+2022-12-25,Northern Ireland,None
+2022-12-25,Norway,NO
+2022-12-25,Poland,PL
+2022-12-25,Portugal,PT
+2022-12-25,Scotland,None
+2022-12-25,Slovenia,SI
+2022-12-25,South Africa,ZA
+2022-12-25,Spain,ES
+2022-12-25,Sweden,SE
+2022-12-25,Switzerland,CH
+2022-12-25,Ukraine,UA
+2022-12-25,United Kingdom,GB
+2022-12-25,United States,US
+2022-12-25,Wales,None
+2022-12-26,Australia,AU
+2022-12-26,Austria,AT
+2022-12-26,Canada,CA
+2022-12-26,Croatia,HR
+2022-12-26,Czech,CZ
+2022-12-26,Denmark,DK
+2022-12-26,England,None
+2022-12-26,Finland,FI
+2022-12-26,Germany,DE
+2022-12-26,Hungary,HU
+2022-12-26,Ireland,IE
+2022-12-26,Isle of Man,IM
+2022-12-26,Italy,IT
+2022-12-26,Mexico,MX
+2022-12-26,Netherlands,NL
+2022-12-26,New Zealand,NZ
+2022-12-26,Northern Ireland,None
+2022-12-26,Norway,NO
+2022-12-26,Poland,PL
+2022-12-26,Scotland,None
+2022-12-26,Slovenia,SI
+2022-12-26,South Africa,ZA
+2022-12-26,Sweden,SE
+2022-12-26,United Kingdom,GB
+2022-12-26,United States,US
+2022-12-26,Wales,None
+2022-12-27,Australia,AU
+2022-12-27,Canada,CA
+2022-12-27,England,None
+2022-12-27,Ireland,IE
+2022-12-27,Isle of Man,IM
+2022-12-27,New Zealand,NZ
+2022-12-27,Northern Ireland,None
+2022-12-27,Scotland,None
+2022-12-27,United Kingdom,GB
+2022-12-27,Wales,None
+2022-12-31,Sweden,SE
